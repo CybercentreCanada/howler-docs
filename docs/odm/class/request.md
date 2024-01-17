@@ -7,7 +7,7 @@
 
 | Field | Type | Description | Required | Default |
 | :--- | :--- | :--- | :--- | :--- |
-| body | [Body](/howler/odm/class/body) | Defines the body of a request | :material-minus-box-outline: Optional | `None` |
+| body | [Body](/howler-docs/odm/class/body) | Defines the body of a request | :material-minus-box-outline: Optional | `None` |
 | bytes | Integer | Total size in bytes of the request (body and headers). | :material-minus-box-outline: Optional | `None` |
 | id | Keyword | A unique identifier for each HTTP request to correlate logs between clients and servers in transactions. | :material-minus-box-outline: Optional | `None` |
 | method | Keyword | HTTP request method. | :material-minus-box-outline: Optional | `None` |

@@ -20,4 +20,4 @@
 | pid | Integer | Process id. | :material-minus-box-outline: Optional | `None` |
 | same_as_process | Boolean | This boolean is used to identify if a leader process is the same as the top level process. | :material-minus-box-outline: Optional | `None` |
 | start | Date | The time the process started. | :material-minus-box-outline: Optional | `None` |
-| user | [ShortUser](/howler/odm/class/shortuser) | The effective user (euid). | :material-minus-box-outline: Optional | `None` |
+| user | [ShortUser](/howler-docs/odm/class/shortuser) | The effective user (euid). | :material-minus-box-outline: Optional | `None` |

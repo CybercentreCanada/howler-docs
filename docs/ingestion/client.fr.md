@@ -38,7 +38,7 @@ Une fois cette étape terminée, vous devriez pouvoir commencer à utiliser le c
 
 ### Authentification
 
-Comme indiqué dans la [Documentation sur l'authentification](/howler/ingestion/authentication/), les utilisateurs peuvent s'authentifier de différentes manières. Pour interfacer avec le client howler, cependant, le flux suggéré est d'utiliser une clé API. Avant de commencer, générons une clé.
+Comme indiqué dans la [Documentation sur l'authentification](/howler-docs/ingestion/authentication/), les utilisateurs peuvent s'authentifier de différentes manières. Pour interfacer avec le client howler, cependant, le flux suggéré est d'utiliser une clé API. Avant de commencer, générons une clé.
 
 1. Ouvrez l'interface utilisateur Howler avec laquelle vous souhaitez vous interfacer.
 2. Connectez-vous, puis cliquez sur votre profil en haut à droite.

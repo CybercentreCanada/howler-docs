@@ -54,7 +54,7 @@ print(f"\tExecuting from {howler_ui_dir}")
 
 ui_yaml = []
 
-SUBSTITUTIONS = [(r"\(/help/auth\)", "(/howler/ingestion/authentication/)")]
+SUBSTITUTIONS = [(r"\(/help/auth\)", "(/howler-docs/ingestion/authentication/)")]
 
 for md_file in howler_ui_dir.rglob("src/components/routes/help/**/*.md"):
     if "node_modules" in str(md_file):

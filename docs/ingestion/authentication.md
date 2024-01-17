@@ -148,7 +148,7 @@ Forbidden error.
 In addition to the authentication methods provided internally by Howler, you can also authenticate with an external
 OAuth provider like Azure or Keycloak. To do this, you must obtain an access token from one of these providers. In
 order to get an access token, there are generally two flows - On-Behalf-Of, <!-- internal: begin -->which is handled by hogwarts-vault-lib (see
-[here](https://github.com/CybercentreCanada/howler-client/blob/develop/src/main/java/cccs/hogwarts/howler/HowlerClient.java#L107-L119)
+[here](https://github.com/CybercentreCanada/howler-client/blob/develop/src/main/java/cccs/hogwarts/howler-docs/HowlerClient.java#L107-L119)
 for an example), <!-- internal: end --> or the user login flow (see [here](https://www.rfc-editor.org/rfc/rfc6749#section-4.1) for a rundown
 of that). In the case of Howler, the `v1/auth/login` endpoint is used for step D & E in the linked user login flow, and
 it returns the following:

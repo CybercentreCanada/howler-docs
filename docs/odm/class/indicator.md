@@ -9,7 +9,7 @@
 | :--- | :--- | :--- | :--- | :--- |
 | confidence | Keyword | Identifies the vendor-neutral confidence rating using the None/Low/Medium/High scale defined in Appendix A of the STIX 2.1 framework. Vendor-specific confidence scales may be added as custom fields. | :material-minus-box-outline: Optional | `None` |
 | description | Text | Describes the type of action conducted by the threat. | :material-minus-box-outline: Optional | `None` |
-| email | [Email](/howler/odm/class/email) | None | :material-minus-box-outline: Optional | `None` |
+| email | [Email](/howler-docs/odm/class/email) | None | :material-minus-box-outline: Optional | `None` |
 | provider | Keyword | The name of the indicator’s provider. | :material-minus-box-outline: Optional | `None` |
 | reference | Keyword | Reference URL linking to additional information about this indicator. | :material-minus-box-outline: Optional | `None` |
 | scanner_stats | Integer | Count of AV/EDR vendors that successfully detected malicious file or URL. | :material-minus-box-outline: Optional | `None` |

@@ -38,7 +38,7 @@ Once this is complete, you should be able to start using the howler client!
 
 ### Authentication
 
-As outlined in the [Authentication Documentation](/howler/ingestion/authentication/), there's a number of ways users can choose to authenticate. In order to interface with the howler client, however, the suggested flow is to use an API key. So before we start, let's generate a key.
+As outlined in the [Authentication Documentation](/howler-docs/ingestion/authentication/), there's a number of ways users can choose to authenticate. In order to interface with the howler client, however, the suggested flow is to use an API key. So before we start, let's generate a key.
 
 1. Open the Howler UI you'd like to interface with.
 2. Log in, then click your profile in the top right.
