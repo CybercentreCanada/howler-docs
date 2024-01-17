@@ -16,6 +16,13 @@
 
   --md-code-bg-color: var(--md-default-bg-color--lightest);
   --md-code-fg-color: var(--md-default-fg-color);
+
+  --md-code-hl-name-color: var(--md-code-fg-color);
+  --md-code-hl-operator-color: #ddd;
+  --md-code-hl-punctuation-color: #ddd;
+  --md-code-hl-comment-color: grey;
+  --md-code-hl-generic-color: #ddd;
+  --md-code-hl-variable-color: #ddd;
 }
 
 [data-md-color-scheme="light"] header {

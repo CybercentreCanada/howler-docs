@@ -36,8 +36,6 @@ nav:
 - Overview:
   - overview/how_it_works.md
   - overview/architecture.md
-- User's manual:
-  - user/user_walkthrough.md
 - Installation:
   - Getting Started:
     - installation/deployment.md
@@ -54,13 +52,16 @@ nav:
     - installation/configuration/system.md
     - installation/configuration/ui.md
   - installation/classification_engine.md
-- Administration: administration/admin_walkthrough.md
+- User's manual:
+  - user/user_walkthrough.md
+# - Administration: administration/admin_walkthrough.md
 - Ingestion:
   - ingestion/key_generation.md
-  - ingestion/python.md
-  - ingestion/java.md
-  - ingestion/rest.md
-- Developer's guide:
+  - ingestion/client.md
+  - ingestion/authentication.md
+  - ingestion/bundles.md
+  - ingestion/links.md
+- Developer's Guide:
   - Frontend: developer/frontend.md
   - Backend: developer/backend.md
   - Client: developer/client.md
