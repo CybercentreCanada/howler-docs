@@ -21,6 +21,7 @@ Now we install the python packages Howler depends on:
 ```shell
 cd ~/repos/howler-api
 
+# If you don't have python3.9 as the default, use python3.9 here instead
 python -m venv .venv
 
 source .venv/bin/activate
