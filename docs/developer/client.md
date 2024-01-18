@@ -1,3 +1,3 @@
-# Assemblyline Client Development
+# Client Development
 
 Frontend stuff

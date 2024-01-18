@@ -51,9 +51,13 @@ nav:
   - ingestion/bundles.md
   - ingestion/links.md
 - Developer's Guide:
-  - Frontend: developer/frontend.md
-  - Backend: developer/backend.md
-  - Client: developer/client.md
+  - developer/getting_started.md
+  - The Repositories:
+    - developer/frontend.md
+    - Backend Development:
+      - developer/backend.md
+      - developer/random_data.md
+    - developer/client.md
 - Data Ontology:
   - Getting Started: odm/getting_started.md
   - Classes:
