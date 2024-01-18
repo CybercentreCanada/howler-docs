@@ -90,7 +90,7 @@ ui:
   email: null
   enforce_quota: true
   secret_key: This is the default flask secret key... you should change this!
-  static_folder: /home/mdrafus/repos/howler-api/howler/odm/models/../../../static
+  static_folder: /example_dir/howler-api/howler/odm/models/../../../static
   validate_session_ip: true
   validate_session_useragent: true
 

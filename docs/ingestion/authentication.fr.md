@@ -146,9 +146,7 @@ Forbidden (Interdit).
 
 En plus des méthodes d'authentification fournies en interne par Howler, vous pouvez également vous authentifier avec un fournisseur OAuth externe comme Azure ou Keycloak.
 Pour ce faire, vous devez obtenir un jeton d'accès auprès de l'un de ces fournisseurs.
-Pour obtenir un jeton d'accès, il y a généralement deux flux - On-Behalf-Of, <!-- internal: begin -->qui est géré par hogwarts-vault-lib (voir
-[ici](https://github.com/CybercentreCanada/howler-client/blob/develop/src/main/java/cccs/hogwarts/howler/HowlerClient.java#L107-L119)
-pour un exemple), <!-- internal: end --> ou le flux de connexion de l'utilisateur (voir [ici](https://www.rfc-editor.org/rfc/rfc6749#section-4.1) pour un récapitulatif
+Pour obtenir un jeton d'accès, il y a généralement deux flux - On-Behalf-Of, ou le flux de connexion de l'utilisateur (voir [ici](https://www.rfc-editor.org/rfc/rfc6749#section-4.1) pour un récapitulatif
 de cela). Dans le cas de Howler, le point de terminaison `v1/auth/login` est utilisé pour les étapes D & E du flux de connexion de l'utilisateur, et
 il renvoie ce qui suit:
 

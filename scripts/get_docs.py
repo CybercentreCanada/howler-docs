@@ -3,14 +3,37 @@ import re
 import shlex
 import subprocess
 
+SUBSTITUTIONS = [
+    (r"\(/help/auth\)", "(/howler-docs/ingestion/authentication/)"),
+    ("/home/\w+/repos/howler-api-public", "/example_dir/howler-api"),
+]
+
 root_dir = Path(__file__).parent.parent
 parent_dir = Path(__file__).parent.parent.parent
 
 print("Generating Howler API documentation")
 
-howler_api_dir = parent_dir / "howler-api"
+
+def _input(prompt: str):
+    try:
+        return input(prompt)
+    except KeyboardInterrupt:
+        exit(1)
+
+
+print("Trying to find howler-api-public")
+howler_api_dir = parent_dir / "howler-api-public"
 if not howler_api_dir.exists():
-    howler_api_dir = Path(input("Enter complete path to howler-api:\n> "))
+    howler_api_dir = parent_dir / "howler-api"
+    if howler_api_dir.exists():
+        print(
+            "WARN: Please run this against the public repository. Based on the directory location, this may be the internal repository."
+        )
+        answer = _input("Is this the public repo ? [y/N] ")
+        if answer.lower() != "y":
+            exit(0)
+    else:
+        howler_api_dir = Path(input("Enter complete path to howler-api:\n> "))
 
 print(f"\tExecuting from {howler_api_dir}")
 
@@ -33,7 +56,13 @@ for md in output.decode().strip().split("\n\n\n\n"):
     print(f"\t\tWriting to {relative_path}")
 
     (parent_dir / relative_path).parent.mkdir(parents=True, exist_ok=True)
-    (parent_dir / relative_path).write_text("\n".join(md.split("\n")[1:]) + "\n")
+
+    processed_md = "\n".join(md.split("\n")[1:]) + "\n"
+
+    for old, new in SUBSTITUTIONS:
+        processed_md = re.sub(old, new, processed_md)
+
+    (parent_dir / relative_path).write_text(processed_md)
 
     entry = relative_path.relative_to("howler-docs/docs")
     if str(entry).startswith("odm/class"):
@@ -44,15 +73,24 @@ yaml_output.extend(sorted(yaml_output_ontology_keys))
 
 print("Generating Howler UI documentation")
 
-howler_ui_dir = parent_dir / "howler-ui"
+print("Trying to find howler-ui-public")
+howler_ui_dir = parent_dir / "howler-ui-public"
 if not howler_ui_dir.exists():
-    howler_ui_dir = Path(input("Enter complete path to howler-ui:\n> "))
+    howler_ui_dir = parent_dir / "howler-ui"
+    if howler_ui_dir.exists():
+        print(
+            "WARN: Please run this against the public repository. Based on the directory location, this may be the internal repository."
+        )
+        answer = _input("Is this the public repo ? [y/N] ")
+        if answer.lower() != "y":
+            exit(0)
+    else:
+        howler_ui_dir = Path(input("Enter complete path to howler-ui:\n> "))
 
 print(f"\tExecuting from {howler_ui_dir}")
 
 ui_yaml = []
 
-SUBSTITUTIONS = [(r"\(/help/auth\)", "(/howler-docs/ingestion/authentication/)")]
 
 for md_file in howler_ui_dir.rglob("src/components/routes/help/**/*.md"):
     if "node_modules" in str(md_file):
