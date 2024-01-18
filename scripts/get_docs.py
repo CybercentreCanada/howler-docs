@@ -22,6 +22,8 @@ output = subprocess.check_output(
     )
 )
 
+warned_files = []
+
 yaml_output = ["- Data Ontology:"]
 yaml_output_ontology_keys = []
 handled_first = False
@@ -31,17 +33,13 @@ for md in output.decode().strip().split("\n\n\n\n"):
     print(f"\t\tWriting to {relative_path}")
 
     (parent_dir / relative_path).parent.mkdir(parents=True, exist_ok=True)
-    (parent_dir / relative_path).write_text("\n".join(md.split("\n")[1:]))
-    if not handled_first:
-        yaml_output.append(
-            f"  - Getting Started: {relative_path.relative_to('howler-docs/docs')}"
-        )
-        yaml_output.append("  - Classes:")
-        handled_first = True
+    (parent_dir / relative_path).write_text("\n".join(md.split("\n")[1:]) + "\n")
+
+    entry = relative_path.relative_to("howler-docs/docs")
+    if str(entry).startswith("odm/class"):
+        yaml_output_ontology_keys.append(f"    - {entry}")
     else:
-        yaml_output_ontology_keys.append(
-            f"    - {relative_path.relative_to('howler-docs/docs')}"
-        )
+        warned_files.append(entry)
 yaml_output.extend(sorted(yaml_output_ontology_keys))
 
 print("Generating Howler UI documentation")
@@ -87,4 +85,11 @@ for md_file in howler_ui_dir.rglob("src/components/routes/help/**/*.md"):
 yaml_output.extend(list(dict.fromkeys(ui_yaml)))
 
 print("\nAdd the following below nav in mkdocs.yml:")
-print("\n".join(yaml_output))
+print("\n".join(yaml_output) + "\n")
+
+if len(warned_files) > 0:
+    print(
+        "Warn: The following files were copied, but could not be placed in the nav automatically:"
+    )
+    for warn in warned_files:
+        print(f"\t{warn}")

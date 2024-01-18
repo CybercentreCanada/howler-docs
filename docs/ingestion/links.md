@@ -27,6 +27,7 @@ hit = {
 }
 ```
 
+<!-- internal: begin -->
 Note the icon can either be:
 
 1. A name identifying an internal application, to use its icon
@@ -37,3 +38,5 @@ If you'd like to use an internal app, the following values are currently support
 $APP_LIST
 
 Using any of these values will automatically use the corresponding icon. No need to host your own!
+
+<!-- internal: end -->

@@ -37,21 +37,10 @@ nav:
   - overview/how_it_works.md
   - overview/architecture.md
 - Installation:
-  - Getting Started:
-    - installation/deployment.md
-  - Configuration:
-    - installation/configuration/config_file.md
-    - installation/configuration/authentication.md
-    - installation/configuration/core.md
-    - installation/configuration/datasources.md
-    - installation/configuration/datastore.md
-    - installation/configuration/filestore.md
-    - installation/configuration/logging.md
-    - installation/configuration/services.md
-    - installation/configuration/submission.md
-    - installation/configuration/system.md
-    - installation/configuration/ui.md
-  - installation/classification_engine.md
+  - installation/deployment.md
+  - Configuring Howler:
+    - installation/default_configuration.md
+    - installation/configuration.md
 - User's manual:
   - user/user_walkthrough.md
 # - Administration: administration/admin_walkthrough.md
