@@ -30,6 +30,10 @@
   color: var(--md-default-fg-color)
 }
 
+article.md-typeset {
+  font-size: .7rem;
+}
+
 .md-typeset code {
   font-size: 13px;
 }
