@@ -30,9 +30,6 @@ core:
     apm_server:
       server_url: null
       token: null
-  notebook:
-    enabled: false
-    url: http://nbgallery.nbgallery.svc.cluster.local:3000
   redis:
     nonpersistent:
       host: 127.0.0.1
@@ -40,9 +37,6 @@ core:
     persistent:
       host: 127.0.0.1
       port: 6380
-  spellbook:
-    enabled: false
-    url: http://spellbook-server.spellbook.svc.cluster.local:8080/api
   vault_url: https://vault.vault.svc.cluster.local:8200
 datastore:
   hosts:

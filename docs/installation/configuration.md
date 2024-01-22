@@ -15,7 +15,6 @@
 | system | [System](#system) | System configuration | :material-checkbox-marked-outline: Yes | See [System](#system) for more details. |
 | ui | [UI](#ui) | UI configuration parameters | :material-checkbox-marked-outline: Yes | See [UI](#ui) for more details. |
 
-
 ## APMServer
 
 > None
@@ -24,7 +23,6 @@
 | :--- | :--- | :--- | :--- | :--- |
 | server_url | Keyword | URL to API server | :material-minus-box-outline: Optional | `None` |
 | token | Keyword | Authentication token for server | :material-minus-box-outline: Optional | `None` |
-
 
 ## Auth
 
@@ -39,7 +37,6 @@
 | internal | [Internal](#internal) | Internal authentication settings | :material-checkbox-marked-outline: Yes | See [Internal](#internal) for more details. |
 | oauth | [OAuth](#oauth) | OAuth settings | :material-checkbox-marked-outline: Yes | See [OAuth](#oauth) for more details. |
 
-
 ## Core
 
 > Howler Core Component Configuration
@@ -48,10 +45,7 @@
 | :--- | :--- | :--- | :--- | :--- |
 | metrics | [Metrics](#metrics) | Configuration for Metrics Collection | :material-checkbox-marked-outline: Yes | See [Metrics](#metrics) for more details. |
 | redis | [Redis](#redis) | Configuration for Redis instances | :material-checkbox-marked-outline: Yes | See [Redis](#redis) for more details. |
-| spellbook | [Spellbook](#spellbook) | Configuration for spellbook integration | :material-checkbox-marked-outline: Yes | See [Spellbook](#spellbook) for more details. |
-| notebook | [Notebook](#notebook) | Configuration for notebook integration | :material-checkbox-marked-outline: Yes | See [Notebook](#notebook) for more details. |
 | vault_url | Keyword | None | :material-checkbox-marked-outline: Yes | `https://vault.vault.svc.cluster.local:8200` |
-
 
 ## Datastore
 
@@ -63,7 +57,6 @@
 | ilm | [ILM](#ilm) | Index Lifecycle Management Policy | :material-checkbox-marked-outline: Yes | See [ILM](#ilm) for more details. |
 | type | Enum | Type of application used for the datastore<br>Values:<br>`"elasticsearch"` | :material-checkbox-marked-outline: Yes | `None` |
 
-
 ## Filestore
 
 > Filestore Configuration
@@ -71,7 +64,6 @@
 | Field | Type | Description | Required | Default |
 | :--- | :--- | :--- | :--- | :--- |
 | storage | List [[Host](#host)] | List of filestores used for storage | :material-checkbox-marked-outline: Yes | `None` |
-
 
 ## Host
 
@@ -87,7 +79,6 @@
 | scheme | Keyword | Scheme to use when connecting | :material-minus-box-outline: Optional | `http` |
 | host | Keyword | URL to connect to | :material-checkbox-marked-outline: Yes | `None` |
 
-
 ## ILM
 
 > Index Lifecycle Management
@@ -98,7 +89,6 @@
 | days_until_archive | Integer | Days until documents get archived | :material-checkbox-marked-outline: Yes | `None` |
 | indexes | Mapping [[ILMParams](#ilmparams)] | Index-specific ILM policies | :material-checkbox-marked-outline: Yes | See [ILMParams](#ilmparams) for more details. |
 | update_archive | Boolean | Do we want to update documents in the archive? | :material-checkbox-marked-outline: Yes | `None` |
-
 
 ## ILMParams
 
@@ -111,7 +101,6 @@
 | delete | Integer | How long, per unit of time, should a document remain before being deleted? | :material-checkbox-marked-outline: Yes | `None` |
 | unit | Enum | Unit of time used by `warm`, `cold`, `delete` phases<br>Values:<br>`"d", "h", "m"` | :material-checkbox-marked-outline: Yes | `None` |
 
-
 ## Internal
 
 > Internal Authentication Configuration
@@ -122,7 +111,6 @@
 | failure_ttl | Integer | How long to wait after `max_failures` before re-attempting login? | :material-checkbox-marked-outline: Yes | `None` |
 | max_failures | Integer | Maximum number of fails allowed before timeout | :material-checkbox-marked-outline: Yes | `None` |
 | password_requirements | [PasswordRequirement](#passwordrequirement) | Password requirements | :material-checkbox-marked-outline: Yes | See [PasswordRequirement](#passwordrequirement) for more details. |
-
 
 ## Logging
 
@@ -140,7 +128,6 @@
 | export_interval | Integer | How often, in seconds, should counters log their values? | :material-checkbox-marked-outline: Yes | `None` |
 | log_as_json | Boolean | Log in JSON format? | :material-checkbox-marked-outline: Yes | `None` |
 
-
 ## Metrics
 
 > Metrics Configuration
@@ -148,18 +135,6 @@
 | Field | Type | Description | Required | Default |
 | :--- | :--- | :--- | :--- | :--- |
 | apm_server | [APMServer](#apmserver) | APM server configuration | :material-checkbox-marked-outline: Yes | See [APMServer](#apmserver) for more details. |
-
-
-## Notebook
-
-> Howler Core Component Configuration
-
-| Field | Type | Description | Required | Default |
-| :--- | :--- | :--- | :--- | :--- |
-| enabled | Boolean | None | :material-checkbox-marked-outline: Yes | `False` |
-| scope | Keyword | None | :material-minus-box-outline: Optional | `None` |
-| url | Keyword | None | :material-checkbox-marked-outline: Yes | `http://nbgallery.nbgallery.svc.cluster.local:3000` |
-
 
 ## OAuth
 
@@ -172,7 +147,6 @@
 | providers | Mapping [[OAuthProvider](#oauthprovider)] | OAuth provider configuration | :material-checkbox-marked-outline: Yes | See [OAuthProvider](#oauthprovider) for more details. |
 | strict_apikeys | Boolean | Only allow apikeys that last as long as the access token used to log in | :material-checkbox-marked-outline: Yes | `False` |
 
-
 ## OAuthAutoProperty
 
 > None
@@ -183,7 +157,6 @@
 | pattern | Keyword | Regex pattern for auto-prop assignment | :material-checkbox-marked-outline: Yes | `None` |
 | type | Enum | Type of property assignment on pattern match<br>Values:<br>`"access", "classification", "role"` | :material-checkbox-marked-outline: Yes | `None` |
 | value | Keyword | Assigned property value | :material-checkbox-marked-outline: Yes | `None` |
-
 
 ## OAuthProvider
 
@@ -219,7 +192,6 @@
 | jwks_uri | Keyword | URL used to verify if a returned JWKS token is valid | :material-checkbox-marked-outline: Yes | `None` |
 | user_get | Keyword | Path from the base_url to fetch the user info | :material-minus-box-outline: Optional | `None` |
 
-
 ## PasswordRequirement
 
 > Password Requirement
@@ -232,7 +204,6 @@
 | upper | Boolean | Password must contain uppercase letters | :material-checkbox-marked-outline: Yes | `None` |
 | min_length | Integer | Minimum password length | :material-checkbox-marked-outline: Yes | `None` |
 
-
 ## Redis
 
 > Redis Configuration
@@ -242,7 +213,6 @@
 | nonpersistent | [RedisServer](#redisserver) | A volatile Redis instance | :material-checkbox-marked-outline: Yes | See [RedisServer](#redisserver) for more details. |
 | persistent | [RedisServer](#redisserver) | A persistent Redis instance | :material-checkbox-marked-outline: Yes | See [RedisServer](#redisserver) for more details. |
 
-
 ## RedisServer
 
 > Redis Service configuration
@@ -251,7 +221,6 @@
 | :--- | :--- | :--- | :--- | :--- |
 | host | Keyword | Hostname of Redis instance | :material-checkbox-marked-outline: Yes | `None` |
 | port | Integer | Port of Redis instance | :material-checkbox-marked-outline: Yes | `None` |
-
 
 ## Retention
 
@@ -264,18 +233,6 @@
 | limit_amount | Integer | The number of limit_units to use when computing the retention limit | :material-checkbox-marked-outline: Yes | `350` |
 | crontab | Keyword | The crontab that denotes how often to run the retention job | :material-checkbox-marked-outline: Yes | `0 0 * * *` |
 
-
-## Spellbook
-
-> Howler Core Component Configuration
-
-| Field | Type | Description | Required | Default |
-| :--- | :--- | :--- | :--- | :--- |
-| enabled | Boolean | None | :material-checkbox-marked-outline: Yes | `False` |
-| scope | Keyword | None | :material-minus-box-outline: Optional | `None` |
-| url | Keyword | None | :material-checkbox-marked-outline: Yes | `http://spellbook-server.spellbook.svc.cluster.local:8080/api` |
-
-
 ## System
 
 > System Configuration
@@ -284,7 +241,6 @@
 | :--- | :--- | :--- | :--- | :--- |
 | type | Enum | Type of system<br>Values:<br>`"development", "production", "staging"` | :material-checkbox-marked-outline: Yes | `None` |
 | retention | [Retention](#retention) | Retention Configuration | :material-checkbox-marked-outline: Yes | See [Retention](#retention) for more details. |
-
 
 ## UI
 
