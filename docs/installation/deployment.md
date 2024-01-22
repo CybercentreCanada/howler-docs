@@ -8,8 +8,8 @@ general steps for deploying howler.
 
 Howler has dependencies on a number of other applications for its functionality:
 
-1. Elasticsearch 8 [Configuration](/howler-docs/installation/configuration/#datastore)
-1. Two redis instances [Configuration](/howler-docs/installation/configuration/#redis)
+1. Elasticsearch 8 ([Configuration](/howler-docs/installation/configuration/#datastore))
+1. Two redis instances ([Configuration](/howler-docs/installation/configuration/#redis))
     1. A persistent instance
     1. A non-persistent instance
 1. A minio server (Setup under [FileStore](/howler-docs/installation/configuration/#filestore) as a host, see the [default configuration](/howler-docs/installation/default_configuration) for an example)

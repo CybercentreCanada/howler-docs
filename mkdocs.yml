@@ -41,9 +41,6 @@ nav:
   - Configuring Howler:
     - installation/default_configuration.md
     - installation/configuration.md
-- User's manual:
-  - user/user_walkthrough.md
-# - Administration: administration/admin_walkthrough.md
 - Ingestion:
   - ingestion/key_generation.md
   - ingestion/client.md

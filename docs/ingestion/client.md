@@ -18,23 +18,8 @@ Simply install through pip:
 pip install howler_client
 ```
 
-You can also add it to your requirements.txt, or whatever dependency management system you use.
-
-Note that the python howler client is already installed in JupyterHub and Airflow, so there is no need to install it manually.
-
-#### **Java**
-
-You can list the howler client as a dependency in your pom.xml:
-
-```xml
-<dependency>
-  <groupId>cccs.hogwarts.howler</groupId>
-  <artifactId>hogwarts-howler</artifactId>
-  <version>1.0.0</version>
-</dependency>
-```
-
-Once this is complete, you should be able to start using the howler client!
+You can also add it to your requirements.txt, or whatever dependency management system you use. Once this is complete,
+you should be able to start using the howler client!
 
 ### Authentication
 
@@ -63,9 +48,6 @@ apikey = (USERNAME, APIKEY)
 
 howler = get_client("$CURRENT_URL", apikey=apikey)
 ```
-
-??? "Note"
-    You can skip generating an API Key and providing it if you're executing this code within HOGWARTS (i.e., on jupyterhub or airflow). OBO will handle authentication for you!
 
 That's it! You can now use the `howler` object to interact with the server. So what does that actually look like?
 
@@ -134,54 +116,4 @@ howler.search.hit("howler.status:resolved", filters=['event.created:[now-5d TO n
 
 # Search for all hits, timeout if the query takes more than 100ms
 howler.search.hit("howler.id:*", track_total_hits=100000000, timeout=100, use_archive=True)
-```
-
-## Java Client
-
-In order to connect to howler using the Java Client, a similarly simple approach can be used:
-
-```java
-String USERNAME = "user";
-String APIKEY = "devkey:user";
-
-HowlerClient howlerClient = new HowlerClient();
-howlerClient.initializeApiKeyAuthentication(USERNAME, APIKEY);
-```
-
-That's it! You can now use the `howlerClient` class to interact with the server.
-
-### Creating hits in Java
-
-The process for creating hits using the Java client is quite different from the python client, due to the strongly typed nature of Java. Instead of specifying a map from raw data to howler's specification, the java implementation of the howler client requires you to create the hit using the build in types:
-
-```java
-HowlerModel howler = new HowlerModel();
-howler.setAnalytic("test");
-howler.setHash("ba7816bf8f01cfea414140de5dae2223b00361a396177a9cb410ff61f20015ad");
-HitModel hit = new HitModel();
-hit.setHowler(howler);
-
-howlerClient.createHits(List.of(hit));
-```
-
-### Querying hits in Java
-
-Similar to creating hits, searching for hits in Java uses a `SearchOptions` class to capture the query specifications:
-
-```java
-HitSearchResponse response = howlerClient.searchHits(
-  SearchOptions.builder()
-    .query("howler.analytic:assemblyline")
-    .fields(List.of("howler.id", "howler.analytic"))
-    .filters(List.of("event.created:[now-5d TO now]"))
-    .rows(10)
-    .offset(40)
-    .timeout(1000)
-    .useArchive(true)
-    .build()
-);
-
-for (HitModel h : response.getApiResponse().getItems()) {
-  System.out.println(h.getHowler().getId());
-}
 ```

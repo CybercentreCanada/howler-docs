@@ -24,7 +24,7 @@ def _input(prompt: str):
 print("Trying to find howler-api-public")
 howler_api_dir = parent_dir / "howler-api-public"
 if not howler_api_dir.exists():
-    howler_api_dir = parent_dir / "howler-api"
+    howler_api_dir = parent_dir / "howler-api-public"
     if howler_api_dir.exists():
         print(
             "WARN: Please run this against the public repository. Based on the directory location, this may be the internal repository."
@@ -76,7 +76,7 @@ print("Generating Howler UI documentation")
 print("Trying to find howler-ui-public")
 howler_ui_dir = parent_dir / "howler-ui-public"
 if not howler_ui_dir.exists():
-    howler_ui_dir = parent_dir / "howler-ui"
+    howler_ui_dir = parent_dir / "howler-ui-public"
     if howler_ui_dir.exists():
         print(
             "WARN: Please run this against the public repository. Based on the directory location, this may be the internal repository."
