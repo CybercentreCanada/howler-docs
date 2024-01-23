@@ -37,7 +37,6 @@ core:
     persistent:
       host: 127.0.0.1
       port: 6380
-  vault_url: https://vault.vault.svc.cluster.local:8200
 datastore:
   hosts:
   - host: localhost:9200

@@ -10,7 +10,7 @@
 | args | List [Keyword] | Array of process arguments, starting with the absolute path to the executable. | :material-minus-box-outline: Optional | `None` |
 | args_count | Integer | Length of the process.args array. | :material-minus-box-outline: Optional | `None` |
 | command_line | Keyword | Full command line that started the process, including the absolute path to the executable, and all arguments. | :material-minus-box-outline: Optional | `None` |
-| end | Date | None | :material-checkbox-marked-outline: Yes | `None` |
+| end | Date | None | :material-minus-box-outline: Optional | `None` |
 | entity_id | Keyword | Unique identifier for the process. | :material-minus-box-outline: Optional | `None` |
 | env_vars | Mapping [Keyword] | Environment variables (env_vars) set at the time of the event. May be filtered to protect sensitive information. | :material-minus-box-outline: Optional | `None` |
 | executable | Keyword | Absolute path to the process executable. | :material-minus-box-outline: Optional | `None` |
