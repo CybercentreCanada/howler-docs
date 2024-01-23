@@ -47,6 +47,7 @@ nav:
   - ingestion/authentication.md
   - ingestion/bundles.md
   - ingestion/links.md
+  - ingestion/example.md
 - Developer's Guide:
   - developer/getting_started.md
   - The Repositories:
