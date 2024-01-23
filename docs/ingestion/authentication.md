@@ -34,7 +34,7 @@ echo -n "user:user" | base64 -w0
 ```
 
 ```http
-GET $CURRENT_URL/api/v1/user/whoami
+GET howler.example.com/api/v1/user/whoami
 Authorization: Basic dXNlcjp1c2Vy
 ```
 
@@ -46,7 +46,7 @@ token works similarly to an OAuth access token - you provide it with each subseq
 until the token expires.
 
 ```http
-POST $CURRENT_URL/api/v1/auth/login/
+POST howler.example.com/api/v1/auth/login/
 Content-Type: application/json
 
 {
@@ -73,7 +73,7 @@ Will return something like:
 Using this token in another API call:
 
 ```http
-GET $CURRENT_URL/api/v1/user/whoami
+GET howler.example.com/api/v1/user/whoami
 Authorization: Bearer user:5791a142067745c3af51d6596da7da8f86357a9fa92ad78d1ce118ea7d89d34e
 ```
 
@@ -97,7 +97,7 @@ echo -n "user:devkey:user" | base64 -w0
 ```
 
 ```http
-GET $CURRENT_URL/api/v1/user/whoami
+GET howler.example.com/api/v1/user/whoami
 Authorization: Basic dXNlcjpkZXZrZXk6dXNlcg==
 ```
 
@@ -108,7 +108,7 @@ token works similarly to an OAuth access token - you provide it with each subseq
 until the token expires.
 
 ```http
-POST $CURRENT_URL/api/v1/auth/login/
+POST howler.example.com/api/v1/auth/login/
 Content-Type: application/json
 
 {
@@ -135,7 +135,7 @@ Will return something like:
 Using this token in another API call:
 
 ```http
-GET $CURRENT_URL/api/v1/user/whoami
+GET howler.example.com/api/v1/user/whoami
 Authorization: Bearer user:f220eb76ff8404abfece8c0c2f3368c7d89618c776bedcd3a506843dc4a952e4
 ```
 
@@ -168,7 +168,7 @@ outlines which provider this access token corresponds to.
 Once you have that access token, you can simply pass it along in the Authorization header:
 
 ```http
-GET $CURRENT_URL/api/v1/user/whoami
+GET howler.example.com/api/v1/user/whoami
 Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJ1c2VyIn0
 ```
 
@@ -178,7 +178,7 @@ authenticated.
 In order to refresh an expired access token, you can use the following API call:
 
 ```http
-POST $CURRENT_URL/api/v1/auth/login/
+POST howler.example.com/api/v1/auth/login/
 Content-Type: application/json
 
 {
@@ -224,7 +224,7 @@ echo -n "user:impersonate_admin:user" | base64 -w0
     authentication method for the person you're impersonating.
 
 ```http
-GET $CURRENT_URL/api/v1/user/whoami
+GET howler.example.com/api/v1/user/whoami
 Authorization: Basic YWRtaW46ZGV2a2V5OmFkbWlu
 X-Impersonating: Basic dXNlcjppbXBlcnNvbmF0ZV9hZG1pbjp1c2Vy
 ```
@@ -237,7 +237,7 @@ If set up correctly, the result will look like:
   "api_response": {
     "avatar": null,
     "classification": "TLP:W",
-    "email": "user@howler.cyber.gc.ca",
+    "email": "user@howler.example.com",
     "groups": [
       "USERS"
     ],

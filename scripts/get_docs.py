@@ -6,6 +6,8 @@ import subprocess
 SUBSTITUTIONS = [
     (r"\(/help/auth\)", "(/howler-docs/ingestion/authentication/)"),
     ("/home/\w+/repos/howler-api-public", "/example_dir/howler-api"),
+    (r"\$CURRENT_URL", "howler.example.com"),
+    (r"howler\..+?\.gc\.ca", "howler.example.com"),
 ]
 
 root_dir = Path(__file__).parent.parent
@@ -24,7 +26,7 @@ def _input(prompt: str):
 print("Trying to find howler-api-public")
 howler_api_dir = parent_dir / "howler-api-public"
 if not howler_api_dir.exists():
-    howler_api_dir = parent_dir / "howler-api-public"
+    howler_api_dir = parent_dir / "howler-api"
     if howler_api_dir.exists():
         print(
             "WARN: Please run this against the public repository. Based on the directory location, this may be the internal repository."
@@ -62,6 +64,8 @@ for md in output.decode().strip().split("\n\n\n\n"):
     for old, new in SUBSTITUTIONS:
         processed_md = re.sub(old, new, processed_md)
 
+    print("hi hi")
+
     (parent_dir / relative_path).write_text(processed_md)
 
     entry = relative_path.relative_to("howler-docs/docs")
@@ -76,7 +80,7 @@ print("Generating Howler UI documentation")
 print("Trying to find howler-ui-public")
 howler_ui_dir = parent_dir / "howler-ui-public"
 if not howler_ui_dir.exists():
-    howler_ui_dir = parent_dir / "howler-ui-public"
+    howler_ui_dir = parent_dir / "howler-ui"
     if howler_ui_dir.exists():
         print(
             "WARN: Please run this against the public repository. Based on the directory location, this may be the internal repository."
@@ -110,6 +114,8 @@ for md_file in howler_ui_dir.rglob("src/components/routes/help/**/*.md"):
 
     for old, new in SUBSTITUTIONS:
         file_data = re.sub(old, new, file_data)
+
+    print(old, file_data)
 
     print(f"\t\tWriting to {file_path}")
 

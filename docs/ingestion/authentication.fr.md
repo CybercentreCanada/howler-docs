@@ -34,7 +34,7 @@ echo -n "user:user" | base64 -w0
 ```
 
 ```http
-GET $CURRENT_URL/api/v1/user/whoami
+GET howler.example.com/api/v1/user/whoami
 Authorization: Basic dXNlcjp1c2Vy
 ```
 
@@ -46,7 +46,7 @@ fonctionne de la même manière qu'un jeton d'accès OAuth - vous le fournissez 
 jusqu'à ce que le jeton expire.
 
 ```http
-POST $CURRENT_URL/api/v1/auth/login/
+POST howler.example.com/api/v1/auth/login/
 Content-Type: application/json
 
 {
@@ -73,7 +73,7 @@ Le résultat sera quelque chose comme:
 Utilisation de ce jeton dans un autre appel d'API:
 
 ```http
-GET $CURRENT_URL/api/v1/user/whoami
+GET howler.example.com/api/v1/user/whoami
 Authorization: Bearer user:5791a142067745c3af51d6596da7da8f86357a9fa92ad78d1ce118ea7d89d34e
 ```
 
@@ -97,7 +97,7 @@ echo -n "user:devkey:user" | base64 -w0
 ```
 
 ```http
-GET $CURRENT_URL/api/v1/user/whoami
+GET howler.example.com/api/v1/user/whoami
 Authorization: Basic dXNlcjpkZXZrZXk6dXNlcg==
 ```
 
@@ -107,7 +107,7 @@ Vous pouvez également utiliser le point de terminaison `v1/auth/login` pour éc
 fonctionne de la même manière qu'un jeton d'accès OAuth - vous le fournissez à chaque demande ultérieure, et il vous authentifie jusqu'à ce que le jeton expire.
 
 ```http
-POST $CURRENT_URL/api/v1/auth/login/
+POST howler.example.com/api/v1/auth/login/
 Content-Type: application/json
 
 {
@@ -134,7 +134,7 @@ Le résultat sera quelque chose comme:
 Utilisation de ce jeton dans un autre appel d'API:
 
 ```http
-GET $CURRENT_URL/api/v1/user/whoami
+GET howler.example.com/api/v1/user/whoami
 Authorization: Bearer user:f220eb76ff8404abfece8c0c2f3368c7d89618c776bedcd3a506843dc4a952e4
 ```
 
@@ -167,7 +167,7 @@ indique à quel fournisseur correspond ce jeton d'accès.
 Une fois que vous avez ce jeton d'accès, vous pouvez simplement le transmettre dans l'en-tête Authorization :
 
 ```http
-GET $CURRENT_URL/api/v1/user/whoami
+GET howler.example.com/api/v1/user/whoami
 Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzdWIiOiJ1c2VyIn0
 ```
 
@@ -177,7 +177,7 @@ authentifié.
 Afin de rafraîchir un jeton d'accès expiré, vous pouvez utiliser l'appel API suivant:
 
 ```http
-POST $CURRENT_URL/api/v1/auth/login/
+POST howler.example.com/api/v1/auth/login/
 Content-Type: application/json
 
 {
@@ -222,7 +222,7 @@ echo -n "user:impersonate_admin:user" | base64 -w0
     Toute forme d'authentification peut être utilisée par l'usurpateur, mais les clés API validées sont la seule méthode d'authentification autorisée pour la personne dont vous usurpez l'identité.
 
 ```http
-GET $CURRENT_URL/api/v1/user/whoami
+GET howler.example.com/api/v1/user/whoami
 Authorization: Basic YWRtaW46ZGV2a2V5OmFkbWlu
 X-Impersonating: Basic dXNlcjppbXBlcnNvbmF0ZV9hZG1pbjp1c2Vy
 ```
@@ -235,7 +235,7 @@ Si la configuration est correcte, le résultat sera le suivant:
   "api_response": {
     "avatar": null,
     "classification": "TLP:W",
-    "email": "user@howler.cyber.gc.ca",
+    "email": "user@howler.example.com",
     "groups": [
       "USERS"
     ],
