@@ -1,6 +1,6 @@
 # Deploying Howler
 
-Interally at the Cyber Centre, we use a helm chart to deploy howler to a kubernetes cluster. Currently, this internal
+Internally at the Cyber Centre, we use a helm chart to deploy howler to a kubernetes cluster. Currently, this internal
 chart has not been made publically available, though this work is in progress. For now, this article will discuss
 general steps for deploying howler.
 
@@ -20,9 +20,10 @@ dependencies reside inside the same namespace as the main Howler pods.
 
 ## Building the Image
 
-Currently, which the docker image for Howler is open source, there are no public images available. Therefore, manual
+Currently, although the docker image for Howler is open source, there are no public images available. Therefore, manual
 building is necessary:
 
+<!-- LINK TO THE DEVELOPERS GUIDE SETUP SOMEWHERE BEFORE THIS. Some users are gonna go straight to the installation section and may not have read the Developer's Guide -->
 ```shell
 cd ~/repos/howler-api/docker
 ./build_container.sh
@@ -34,7 +35,7 @@ is the version specified in howler's `setup.py`.
 ## Configuring OAuth
 
 In order to get OAuth authentication working, you need to configure the provider in Howler's `config.yml`. Below is a
-snippet explaining a sample configuration, for connecting to a Keycloak server. Howler uses
+snippet explaining a sample configuration for connecting to a Keycloak server. Howler uses
 [JSON Web Tokens](https://jwt.io/) for authentication in the case of OAuth.
 
 ```yaml
@@ -43,7 +44,7 @@ auth:
     oauth:
         enabled: true
         providers:
-            # Naming the provbider
+            # Naming the provider
             keycloak:
 
                 # The audience that should be accepted in the JWT
@@ -68,15 +69,15 @@ auth:
                 # https://oauth.net/2/scope/
                 scope: "openid offline_access"
 
-                # Where to fetch the keys necesary to validate the JWT returned from the server.
+                # Where to fetch the keys necessary to validate the JWT returned from the server.
                 # https://auth0.com/docs/secure/tokens/json-web-tokens/json-web-key-sets
                 jwks_uri: https://example.com/realms/keycloak-realm/protocol/openid-connect/certs
 
-                # What groups must the user be in in order to have access to howler?
+                # What groups the user must be a member of in order to have access to howler?
                 required_groups:
                 - howler_user
 
-                # What do the groups the user is a part of map to in terms of roles in Howler?
+                # What do the groups the user is a member of map to in terms of roles in Howler?
                 role_map:
                     user: howler_user
                     admin: howler_admin

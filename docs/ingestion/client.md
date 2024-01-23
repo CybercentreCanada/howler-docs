@@ -2,7 +2,7 @@
 
 # Howler Client Documentation
 
-This documentation will outline how to interact with the howler API using the howler client in both Java and python development environments. We will outline the basic process of creating a new hit in each environment as well as searching howler for hits matching your query.
+This documentation will outline how to interact with the howler API using the howler client in Python development environments. We will outline the basic process of creating a new hit in each environment as well as searching howler for hits matching your query.
 
 ## Getting started
 
@@ -23,6 +23,7 @@ you should be able to start using the howler client!
 
 ### Authentication
 
+<!-- Could just link to the key generation section or remove that section entirely -->
 As outlined in the [Authentication Documentation](/howler-docs/ingestion/authentication/), there's a number of ways users can choose to authenticate. In order to interface with the howler client, however, the suggested flow is to use an API key. So before we start, let's generate a key.
 
 1. Open the Howler UI you'd like to interface with.
@@ -36,7 +37,7 @@ This API Key will be supplied to your code later on.
 
 ## Python Client
 
-In order to connect with howler using the python client, there is a fairly simple process to follow:
+In order to connect with howler using the python client, we can create our API Key object and provide it, along with the howler api url, to the Howler client to establish a connection:
 
 ```python
 from howler_client import get_client
@@ -46,7 +47,7 @@ APIKEY = 'apikey_name:apikey_data'
 
 apikey = (USERNAME, APIKEY)
 
-howler = get_client("$CURRENT_URL", apikey=apikey)
+howler = get_client("<HOWLER_API_URL>", apikey=apikey)
 ```
 
 That's it! You can now use the `howler` object to interact with the server. So what does that actually look like?
@@ -55,7 +56,7 @@ That's it! You can now use the `howler` object to interact with the server. So w
 
 For the python client, you can create hits using the `howler.hit.create_from_map` function. This function takes in three arguments:
 
-- `tool name`: The name of the analytic creating the hit
+- `tool_name`: The name of the analytic creating the hit
 - `map`: A mapping between the raw data you have and the howler schema
   - The format is a dictionary where the keys are the flattened path of the raw data, and the values are a list of flattened paths for Howler's fields where the data will be copied into.
 - `documents`: The raw data you want to add to howler
