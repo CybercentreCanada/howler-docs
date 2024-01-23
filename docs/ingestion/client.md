@@ -23,17 +23,7 @@ you should be able to start using the howler client!
 
 ### Authentication
 
-<!-- Could just link to the key generation section or remove that section entirely -->
-As outlined in the [Authentication Documentation](/howler-docs/ingestion/authentication/), there's a number of ways users can choose to authenticate. In order to interface with the howler client, however, the suggested flow is to use an API key. So before we start, let's generate a key.
-
-1. Open the Howler UI you'd like to interface with.
-2. Log in, then click your profile in the top right.
-3. Under user menu, click Settings.
-4. Under User Security, press the (+) icon on the API Keys row.
-5. Name your key, and give it the requisite permissions.
-6. Press Create, and copy the supplied string somewhere safe. **You will not see this string again.**
-
-This API Key will be supplied to your code later on.
+As outlined in the [Authentication Documentation](/howler-docs/ingestion/authentication/), there's a number of ways users can choose to authenticate. In order to interface with the howler client, however, the suggested flow is to [use an API key](/howler-docs/ingestion/key_generation/). This API Key will be supplied to your code later on.
 
 ## Python Client
 
@@ -47,7 +37,7 @@ APIKEY = 'apikey_name:apikey_data'
 
 apikey = (USERNAME, APIKEY)
 
-howler = get_client("<HOWLER_API_URL>", apikey=apikey)
+howler = get_client("howler.example.com", apikey=apikey)
 ```
 
 That's it! You can now use the `howler` object to interact with the server. So what does that actually look like?

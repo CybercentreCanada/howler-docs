@@ -29,8 +29,9 @@ This is far and away the simplest method. Simply add a basic Authorization heade
 make, and everything is taken care of:
 
 ```bash
-echo -n "user:pass" | base64 -w0
-# -> dXNlcjpwYXNz
+# Note that this format is <username>:<password>
+echo -n "user:user" | base64 -w0
+# -> dXNlcjp1c2Vy
 ```
 
 ```http
