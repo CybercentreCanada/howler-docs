@@ -50,12 +50,15 @@ import hashlib
 
 from howler_client import get_client
 
-APIKEY = ('<USERNAME_HERE>', '<APIKEY_HERE>')
+APIKEY = (
+    "matthewrafuse",
+    "docker:2NQDW4QLCZNG4EGCYJKHPNWHFNOUSXM2OCGREGC5YXBKDAKNNPAYZ7YKPKI7RNGVHVKILTYPYFZK3OHT",
+)
 
-howler = get_client("<HOWLER_URL_HERE>", apikey=APIKEY)
+howler = get_client("https://howler.dev.analysis.cyber.gc.ca", apikey=APIKEY)
 sha256 = hashlib.sha256()
 
-with open("test_control.txt", 'rb') as f:
+with open("test_control.txt", "rb") as f:
     while True:
         data = f.read(65536)
         if not data:
@@ -67,7 +70,7 @@ control_hash = sha256.hexdigest()
 print(f"Control hash value: {control_hash}")
 
 sha256 = hashlib.sha256()
-with open("test.txt", 'rb') as f:
+with open("test.txt", "rb") as f:
     while True:
         data = f.read(65536)
         if not data:
@@ -79,9 +82,22 @@ padded_hash = sha256.hexdigest()
 print(f"Padded hash value: {padded_hash}")
 
 if padded_hash != control_hash:
-    print("Binary padding detected")
+    print("Binary padding detected! Creating alert")
+
+    howler.hit.create(
+        {
+            "howler.analytic": "ATR Ingestion Example",
+            "howler.detection": "Binary Padding",
+            "howler.score": 0,
+            "threat.technique.id": "T1027.001",
+            "threat.technique.name": "Obfuscated Files or Information: Binary Padding",
+            "threat.technique.reference": "https://attack.mitre.org/techniques/T1027/001/",
+            "related.hash": [control_hash, padded_hash],
+        }
+    )
 else:
     print("Binary padding not detected")
+
 ```
 
 For information on creating an API Key, see [Generating an API Key](/howler-docs/ingestion/key_generation/). The API key
