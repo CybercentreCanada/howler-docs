@@ -4,7 +4,7 @@ This article will outline a very basic example of how to ingest hits into Howler
 Binary padding of a malicious file
 ([T1027.001](https://github.com/redcanaryco/atomic-red-team/blob/master/atomics/T1027.001/T1027.001.md)).
 
-## Building a Docker Container
+## Preparing a Docker Container
 
 In order to run Atomic Red Team and detect the resulting files, we'll need to slightly modify the docker file, to
 install python 3.9. First, create a new folder to include the Dockerfile and dependent files in:
@@ -87,6 +87,8 @@ else:
 For information on creating an API Key, see [Generating an API Key](/howler-docs/ingestion/key_generation/). The API key
 should have Read and Write permissions.
 
+## Building and Running the Docker Container
+
 Now, you can run `docker build`:
 
 ```shell
@@ -101,6 +103,8 @@ PowerShell 7.4.0
 Loading personal and system profiles took 700ms.
 PS />
 ```
+
+## Executing the Detection
 
 If you run the detection file:
 
@@ -133,3 +137,13 @@ Binary padding detected! Creating alert
 ```
 
 If you check your howler instance, you should now see a new alert!
+
+??? tip "Note on Reused Alerts"
+    One caveat is that, if a hit is identical each time (like the above alert), the howler client will automatically
+    reuse that alert. To circumvent this, simply add a random/custom `howler.hash` field.
+
+## Conclusion
+
+You've now created an extremely basic script that checks two files for mismatching hashes. In reality, you'd want to run
+heuristics to see if these files are similar and THEN alert, but this is more to illustrate a use case of Howler, and
+the basic process of ingestion.
