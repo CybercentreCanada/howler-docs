@@ -50,12 +50,9 @@ import hashlib
 
 from howler_client import get_client
 
-APIKEY = (
-    "matthewrafuse",
-    "docker:2NQDW4QLCZNG4EGCYJKHPNWHFNOUSXM2OCGREGC5YXBKDAKNNPAYZ7YKPKI7RNGVHVKILTYPYFZK3OHT",
-)
+APIKEY = ('<USERNAME_HERE>', '<APIKEY_HERE>')
 
-howler = get_client("https://howler.dev.analysis.cyber.gc.ca", apikey=APIKEY)
+howler = get_client("<HOWLER_URL_HERE>", apikey=APIKEY)
 sha256 = hashlib.sha256()
 
 with open("test_control.txt", "rb") as f:
