@@ -34,7 +34,9 @@ markdown_extensions:
 nav:
 - Home: index.md
 - Overview:
-  - overview/how_it_works.md
+  - How It Works:
+    - overview/detection_engineers.md
+    - overview/triage_analysts.md
   - overview/architecture.md
 - Installation:
   - installation/deployment.md
