@@ -14,7 +14,7 @@ Next, you need to populate some fields specific to Howler:
 - `howler.outline.summary`- An executive summary explaining the activity that is being detected. Describe the event with the assumption that the detection is correct.
 - `howler.data` - A list of dictionaries of the raw event before normalization. This makes it easier for analysts if they need to take their investigation outside of Howler.
 
-Howler uses escalation levels (howler.escalation) to categorise hits:
+Howler uses escalation levels (`howler.escalation`) to categorise hits:
 
 - `miss` - The event is assessed to not be related to detection (false-positive).
 - `hit` - (default) The event might not be very reliable without additional context.
