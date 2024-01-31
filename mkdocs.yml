@@ -35,8 +35,8 @@ nav:
 - Home: index.md
 - Overview:
   - How It Works:
-    - overview/detection_engineers.md
     - overview/triage_analysts.md
+    - overview/detection_engineers.md
   # - overview/architecture.md
 - Installation:
   - installation/deployment.md
