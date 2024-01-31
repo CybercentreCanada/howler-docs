@@ -136,7 +136,8 @@ This is where you can indicate a final verdict for your investigation. (`howler.
 - **Attempt**: There event represents an attempted attack that doesn't appear to have succeeded.
 - **Compromise**: The event represents a successful compromise that must be mitigated.
 - **Mitigated**: The event represents a successful compromise for which mitigating action is underway.
-- **Rationale**: Once you add an assessment, you're asked to provide a rationale as free-form text. This is a quick summary explaining to your colleagues, or your future-self, why you have confidence in that assessment. (`howler.rationale`)
+
+**Rationale**: Once you add an assessment, you're asked to provide a rationale as free-form text. This is a quick summary explaining to your colleagues, or your future-self, why you have confidence in that assessment. (`howler.rationale`)
 
 #### Vote
 
