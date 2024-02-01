@@ -1,8 +1,6 @@
 # Deploying Howler
 
-Internally at the Cyber Centre, we use a helm chart to deploy howler to a kubernetes cluster. Currently, this internal
-chart has not been made publically available, though this work is in progress. For now, this article will discuss
-general steps for deploying howler.
+Internally at the Cyber Centre, we use a helm chart to deploy howler to a kubernetes cluster. An open source version of this chart is available on [GitHub](https://github.com/CybercentreCanada/howler/tree/main/howler-helm). This article consists of a general discussion of dependencies. For an example of this helm chart in use, see [Installing Howler on a New Ubuntu VM](/howler-docs/installation/deployment_minikube).
 
 ## Dependencies
 
