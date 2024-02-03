@@ -50,9 +50,9 @@ import hashlib
 
 from howler_client import get_client
 
-APIKEY = ('<USERNAME_HERE>', '<APIKEY_HERE>')
+USERPASS = ('<USERNAME_HERE>', '<PASSWORD>')
 
-howler = get_client("<HOWLER_URL_HERE>", apikey=APIKEY)
+howler = get_client("<HOWLER_URL_HERE>", auth=APIKEY)
 sha256 = hashlib.sha256()
 
 with open("test_control.txt", "rb") as f:
