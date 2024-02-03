@@ -13,7 +13,7 @@ install python 3.9. First, create a new folder to include the Dockerfile and dep
 mkdir -p ~/atomic-red-team-custom
 
 # This is the test file we'll use to run the detection
-echo "Hello, world!" > test.txt
+echo "Hello, world\!" > test.txt
 
 touch Dockerfile
 touch detection.py
