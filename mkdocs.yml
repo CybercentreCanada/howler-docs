@@ -47,6 +47,7 @@ nav:
 - Ingestion:
   - ingestion/key_generation.md
   - ingestion/client.md
+  - ingestion/user.md
   - ingestion/authentication.md
   - ingestion/bundles.md
   - ingestion/links.md
