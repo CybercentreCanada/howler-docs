@@ -1,6 +1,6 @@
 # Creating Users in Howler
 
-Howler does not currently have a graphical interface for creating users. The generally suggesedt manner of creating
+Howler does not currently have a graphical interface for creating users. The generally suggested manner of creating
 users is by connecting Howler to an OAuth 2.0 provider (azure, google, etc.) and creating a user based on the returned
 JWT authentication token. This is already handled in howler, and just requires setting up an external OAuth provider
 (see [here](/howler-docs/installation/configuration/#oauthprovider) for configuration information).
@@ -39,7 +39,7 @@ def create_user(name: str, email: str, username: str):
 if __name__ == "__main__":
     name = input("Enter Name:\n> ")
     username = input("\nEnter Username:\n> ")
-    email = input("\nEnter email:\n> ")
+    email = input("\nEnter Email:\n> ")
 
     print(
         f"New user will be created.\n\tName: {name}\n\tUsername: {username}\n\tEmail: {email}"
