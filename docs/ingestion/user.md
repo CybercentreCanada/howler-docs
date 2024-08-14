@@ -6,7 +6,7 @@ JWT authentication token. This is already handled in howler, and just requires s
 (see [here](/howler-docs/installation/configuration/#oauthprovider) for configuration information).
 
 If you'd like to create a user directly, without the use of OAuth creation, you can currently use the following script,
-on the same machine howler is hosted on:
+on the same machine Howler is hosted on:
 
 ```python
 from howler.common.logging import get_logger

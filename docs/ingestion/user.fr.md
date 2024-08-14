@@ -1,12 +1,13 @@
 # Créer des utilisateurs dans Howler
 
-Howler ne dispose pas actuellement d'une interface graphique pour la création d'utilisateurs. La manière généralement suggérée de créer des utilisateurs est de connecter Howler à un fournisseur OAuth
-utilisateurs est de connecter Howler à un fournisseur OAuth 2.0 (azure, google, etc.) et de créer un utilisateur basé sur le jeton d'authentification JWT retourné.
-JWT renvoyé. Ceci est déjà géré dans Howler, et nécessite juste la mise en place d'un fournisseur OAuth externe
-(voir [ici](/howler-docs/installation/configuration/#oauthprovider) pour les informations de configuration).
+Howler ne dispose pas actuellement d'une interface graphique pour la création d'utilisateurs. La manière généralement
+suggérée de créer des utilisateurs est de connecter Howler à un fournisseur OAuth 2.0 (azure, google, etc.) et de créer
+un utilisateur basé sur le jeton d'authentification JWT renvoyé. Ceci est déjà géré dans Howler, et nécessite
+juste la mise en place d'un fournisseur OAuth externe (voir
+[ici](/howler-docs/installation/configuration/#oauthprovider) pour les informations de configuration).
 
-Si vous souhaitez créer un utilisateur directement, sans passer par la création d'OAuth, vous pouvez actuellement utiliser le script suivant,
-sur la même machine que celle sur laquelle howler est hébergé :
+Si vous souhaitez créer un utilisateur directement, sans passer par la création d'OAuth, vous pouvez utiliser le script
+suivant, sur la même machine que celle sur laquelle Howler est hébergé :
 
 ```python
 from howler.common.logging import get_logger
