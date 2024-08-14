@@ -39,8 +39,8 @@ def create_user(name: str, email: str, username: str):
 
 if __name__ == "__main__":
     name = input("Entrer le nom:\n> ")
-    username = input("\Entrer le nom d'utilisateur:\n> ")
-    email = input("\Entrer l'email:\n> ")
+    username = input("\nEntrer le nom d'utilisateur:\n> ")
+    email = input("\nEntrer l'email:\n> ")
 
     print(
         f"Un nouvel utilisateur sera créé.\n\tNom: {name}\n\tNom d'utilisateur: {username}\n\tEmail: {email}"
