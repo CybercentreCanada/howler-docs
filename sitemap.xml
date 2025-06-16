@@ -1,0 +1,1473 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+    <url>
+        <loc>https://cybercentrecanada.github.io/howler-docs/</loc>
+        <lastmod>2025-06-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://cybercentrecanada.github.io/howler-docs/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://cybercentrecanada.github.io/howler-docs/fr/"/>
+    </url>
+    <url>
+        <loc>https://cybercentrecanada.github.io/howler-docs/developer/backend/</loc>
+        <lastmod>2025-06-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://cybercentrecanada.github.io/howler-docs/developer/backend/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://cybercentrecanada.github.io/howler-docs/fr/developer/backend/"/>
+    </url>
+    <url>
+        <loc>https://cybercentrecanada.github.io/howler-docs/developer/client/</loc>
+        <lastmod>2025-06-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://cybercentrecanada.github.io/howler-docs/developer/client/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://cybercentrecanada.github.io/howler-docs/fr/developer/client/"/>
+    </url>
+    <url>
+        <loc>https://cybercentrecanada.github.io/howler-docs/developer/frontend/</loc>
+        <lastmod>2025-06-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://cybercentrecanada.github.io/howler-docs/developer/frontend/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://cybercentrecanada.github.io/howler-docs/fr/developer/frontend/"/>
+    </url>
+    <url>
+        <loc>https://cybercentrecanada.github.io/howler-docs/developer/getting_started/</loc>
+        <lastmod>2025-06-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://cybercentrecanada.github.io/howler-docs/developer/getting_started/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://cybercentrecanada.github.io/howler-docs/fr/developer/getting_started/"/>
+    </url>
+    <url>
+        <loc>https://cybercentrecanada.github.io/howler-docs/developer/random_data/</loc>
+        <lastmod>2025-06-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://cybercentrecanada.github.io/howler-docs/developer/random_data/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://cybercentrecanada.github.io/howler-docs/fr/developer/random_data/"/>
+    </url>
+    <url>
+        <loc>https://cybercentrecanada.github.io/howler-docs/ingestion/authentication/</loc>
+        <lastmod>2025-06-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://cybercentrecanada.github.io/howler-docs/ingestion/authentication/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://cybercentrecanada.github.io/howler-docs/fr/ingestion/authentication/"/>
+    </url>
+    <url>
+        <loc>https://cybercentrecanada.github.io/howler-docs/ingestion/bundles/</loc>
+        <lastmod>2025-06-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://cybercentrecanada.github.io/howler-docs/ingestion/bundles/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://cybercentrecanada.github.io/howler-docs/fr/ingestion/bundles/"/>
+    </url>
+    <url>
+        <loc>https://cybercentrecanada.github.io/howler-docs/ingestion/client/</loc>
+        <lastmod>2025-06-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://cybercentrecanada.github.io/howler-docs/ingestion/client/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://cybercentrecanada.github.io/howler-docs/fr/ingestion/client/"/>
+    </url>
+    <url>
+        <loc>https://cybercentrecanada.github.io/howler-docs/ingestion/example/</loc>
+        <lastmod>2025-06-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://cybercentrecanada.github.io/howler-docs/ingestion/example/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://cybercentrecanada.github.io/howler-docs/fr/ingestion/example/"/>
+    </url>
+    <url>
+        <loc>https://cybercentrecanada.github.io/howler-docs/ingestion/key_generation/</loc>
+        <lastmod>2025-06-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://cybercentrecanada.github.io/howler-docs/ingestion/key_generation/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://cybercentrecanada.github.io/howler-docs/fr/ingestion/key_generation/"/>
+    </url>
+    <url>
+        <loc>https://cybercentrecanada.github.io/howler-docs/ingestion/links/</loc>
+        <lastmod>2025-06-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://cybercentrecanada.github.io/howler-docs/ingestion/links/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://cybercentrecanada.github.io/howler-docs/fr/ingestion/links/"/>
+    </url>
+    <url>
+        <loc>https://cybercentrecanada.github.io/howler-docs/ingestion/user/</loc>
+        <lastmod>2025-06-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://cybercentrecanada.github.io/howler-docs/ingestion/user/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://cybercentrecanada.github.io/howler-docs/fr/ingestion/user/"/>
+    </url>
+    <url>
+        <loc>https://cybercentrecanada.github.io/howler-docs/installation/configuration/</loc>
+        <lastmod>2025-06-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://cybercentrecanada.github.io/howler-docs/installation/configuration/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://cybercentrecanada.github.io/howler-docs/fr/installation/configuration/"/>
+    </url>
+    <url>
+        <loc>https://cybercentrecanada.github.io/howler-docs/installation/default_configuration/</loc>
+        <lastmod>2025-06-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://cybercentrecanada.github.io/howler-docs/installation/default_configuration/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://cybercentrecanada.github.io/howler-docs/fr/installation/default_configuration/"/>
+    </url>
+    <url>
+        <loc>https://cybercentrecanada.github.io/howler-docs/installation/deployment/</loc>
+        <lastmod>2025-06-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://cybercentrecanada.github.io/howler-docs/installation/deployment/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://cybercentrecanada.github.io/howler-docs/fr/installation/deployment/"/>
+    </url>
+    <url>
+        <loc>https://cybercentrecanada.github.io/howler-docs/installation/deployment_minikube/</loc>
+        <lastmod>2025-06-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://cybercentrecanada.github.io/howler-docs/installation/deployment_minikube/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://cybercentrecanada.github.io/howler-docs/fr/installation/deployment_minikube/"/>
+    </url>
+    <url>
+        <loc>https://cybercentrecanada.github.io/howler-docs/odm/getting_started/</loc>
+        <lastmod>2025-06-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://cybercentrecanada.github.io/howler-docs/odm/getting_started/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://cybercentrecanada.github.io/howler-docs/fr/odm/getting_started/"/>
+    </url>
+    <url>
+        <loc>https://cybercentrecanada.github.io/howler-docs/odm/class/account/</loc>
+        <lastmod>2025-06-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://cybercentrecanada.github.io/howler-docs/odm/class/account/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://cybercentrecanada.github.io/howler-docs/fr/odm/class/account/"/>
+    </url>
+    <url>
+        <loc>https://cybercentrecanada.github.io/howler-docs/odm/class/address/</loc>
+        <lastmod>2025-06-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://cybercentrecanada.github.io/howler-docs/odm/class/address/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://cybercentrecanada.github.io/howler-docs/fr/odm/class/address/"/>
+    </url>
+    <url>
+        <loc>https://cybercentrecanada.github.io/howler-docs/odm/class/agent/</loc>
+        <lastmod>2025-06-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://cybercentrecanada.github.io/howler-docs/odm/class/agent/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://cybercentrecanada.github.io/howler-docs/fr/odm/class/agent/"/>
+    </url>
+    <url>
+        <loc>https://cybercentrecanada.github.io/howler-docs/odm/class/assemblyline/</loc>
+        <lastmod>2025-06-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://cybercentrecanada.github.io/howler-docs/odm/class/assemblyline/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://cybercentrecanada.github.io/howler-docs/fr/odm/class/assemblyline/"/>
+    </url>
+    <url>
+        <loc>https://cybercentrecanada.github.io/howler-docs/odm/class/attachment/</loc>
+        <lastmod>2025-06-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://cybercentrecanada.github.io/howler-docs/odm/class/attachment/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://cybercentrecanada.github.io/howler-docs/fr/odm/class/attachment/"/>
+    </url>
+    <url>
+        <loc>https://cybercentrecanada.github.io/howler-docs/odm/class/aws/</loc>
+        <lastmod>2025-06-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://cybercentrecanada.github.io/howler-docs/odm/class/aws/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://cybercentrecanada.github.io/howler-docs/fr/odm/class/aws/"/>
+    </url>
+    <url>
+        <loc>https://cybercentrecanada.github.io/howler-docs/odm/class/azure/</loc>
+        <lastmod>2025-06-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://cybercentrecanada.github.io/howler-docs/odm/class/azure/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://cybercentrecanada.github.io/howler-docs/fr/odm/class/azure/"/>
+    </url>
+    <url>
+        <loc>https://cybercentrecanada.github.io/howler-docs/odm/class/body/</loc>
+        <lastmod>2025-06-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://cybercentrecanada.github.io/howler-docs/odm/class/body/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://cybercentrecanada.github.io/howler-docs/fr/odm/class/body/"/>
+    </url>
+    <url>
+        <loc>https://cybercentrecanada.github.io/howler-docs/odm/class/cbs/</loc>
+        <lastmod>2025-06-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://cybercentrecanada.github.io/howler-docs/odm/class/cbs/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://cybercentrecanada.github.io/howler-docs/fr/odm/class/cbs/"/>
+    </url>
+    <url>
+        <loc>https://cybercentrecanada.github.io/howler-docs/odm/class/chardevice/</loc>
+        <lastmod>2025-06-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://cybercentrecanada.github.io/howler-docs/odm/class/chardevice/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://cybercentrecanada.github.io/howler-docs/fr/odm/class/chardevice/"/>
+    </url>
+    <url>
+        <loc>https://cybercentrecanada.github.io/howler-docs/odm/class/client/</loc>
+        <lastmod>2025-06-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://cybercentrecanada.github.io/howler-docs/odm/class/client/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://cybercentrecanada.github.io/howler-docs/fr/odm/class/client/"/>
+    </url>
+    <url>
+        <loc>https://cybercentrecanada.github.io/howler-docs/odm/class/cloud/</loc>
+        <lastmod>2025-06-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://cybercentrecanada.github.io/howler-docs/odm/class/cloud/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://cybercentrecanada.github.io/howler-docs/fr/odm/class/cloud/"/>
+    </url>
+    <url>
+        <loc>https://cybercentrecanada.github.io/howler-docs/odm/class/codesignature/</loc>
+        <lastmod>2025-06-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://cybercentrecanada.github.io/howler-docs/odm/class/codesignature/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://cybercentrecanada.github.io/howler-docs/fr/odm/class/codesignature/"/>
+    </url>
+    <url>
+        <loc>https://cybercentrecanada.github.io/howler-docs/odm/class/comment/</loc>
+        <lastmod>2025-06-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://cybercentrecanada.github.io/howler-docs/odm/class/comment/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://cybercentrecanada.github.io/howler-docs/fr/odm/class/comment/"/>
+    </url>
+    <url>
+        <loc>https://cybercentrecanada.github.io/howler-docs/odm/class/container/</loc>
+        <lastmod>2025-06-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://cybercentrecanada.github.io/howler-docs/odm/class/container/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://cybercentrecanada.github.io/howler-docs/fr/odm/class/container/"/>
+    </url>
+    <url>
+        <loc>https://cybercentrecanada.github.io/howler-docs/odm/class/device/</loc>
+        <lastmod>2025-06-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://cybercentrecanada.github.io/howler-docs/odm/class/device/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://cybercentrecanada.github.io/howler-docs/fr/odm/class/device/"/>
+    </url>
+    <url>
+        <loc>https://cybercentrecanada.github.io/howler-docs/odm/class/dns/</loc>
+        <lastmod>2025-06-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://cybercentrecanada.github.io/howler-docs/odm/class/dns/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://cybercentrecanada.github.io/howler-docs/fr/odm/class/dns/"/>
+    </url>
+    <url>
+        <loc>https://cybercentrecanada.github.io/howler-docs/odm/class/dnsanswer/</loc>
+        <lastmod>2025-06-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://cybercentrecanada.github.io/howler-docs/odm/class/dnsanswer/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://cybercentrecanada.github.io/howler-docs/fr/odm/class/dnsanswer/"/>
+    </url>
+    <url>
+        <loc>https://cybercentrecanada.github.io/howler-docs/odm/class/dnsquestion/</loc>
+        <lastmod>2025-06-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://cybercentrecanada.github.io/howler-docs/odm/class/dnsquestion/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://cybercentrecanada.github.io/howler-docs/fr/odm/class/dnsquestion/"/>
+    </url>
+    <url>
+        <loc>https://cybercentrecanada.github.io/howler-docs/odm/class/ecsversion/</loc>
+        <lastmod>2025-06-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://cybercentrecanada.github.io/howler-docs/odm/class/ecsversion/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://cybercentrecanada.github.io/howler-docs/fr/odm/class/ecsversion/"/>
+    </url>
+    <url>
+        <loc>https://cybercentrecanada.github.io/howler-docs/odm/class/elf/</loc>
+        <lastmod>2025-06-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://cybercentrecanada.github.io/howler-docs/odm/class/elf/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://cybercentrecanada.github.io/howler-docs/fr/odm/class/elf/"/>
+    </url>
+    <url>
+        <loc>https://cybercentrecanada.github.io/howler-docs/odm/class/email/</loc>
+        <lastmod>2025-06-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://cybercentrecanada.github.io/howler-docs/odm/class/email/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://cybercentrecanada.github.io/howler-docs/fr/odm/class/email/"/>
+    </url>
+    <url>
+        <loc>https://cybercentrecanada.github.io/howler-docs/odm/class/error/</loc>
+        <lastmod>2025-06-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://cybercentrecanada.github.io/howler-docs/odm/class/error/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://cybercentrecanada.github.io/howler-docs/fr/odm/class/error/"/>
+    </url>
+    <url>
+        <loc>https://cybercentrecanada.github.io/howler-docs/odm/class/event/</loc>
+        <lastmod>2025-06-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://cybercentrecanada.github.io/howler-docs/odm/class/event/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://cybercentrecanada.github.io/howler-docs/fr/odm/class/event/"/>
+    </url>
+    <url>
+        <loc>https://cybercentrecanada.github.io/howler-docs/odm/class/faas/</loc>
+        <lastmod>2025-06-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://cybercentrecanada.github.io/howler-docs/odm/class/faas/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://cybercentrecanada.github.io/howler-docs/fr/odm/class/faas/"/>
+    </url>
+    <url>
+        <loc>https://cybercentrecanada.github.io/howler-docs/odm/class/feed/</loc>
+        <lastmod>2025-06-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://cybercentrecanada.github.io/howler-docs/odm/class/feed/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://cybercentrecanada.github.io/howler-docs/fr/odm/class/feed/"/>
+    </url>
+    <url>
+        <loc>https://cybercentrecanada.github.io/howler-docs/odm/class/file/</loc>
+        <lastmod>2025-06-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://cybercentrecanada.github.io/howler-docs/odm/class/file/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://cybercentrecanada.github.io/howler-docs/fr/odm/class/file/"/>
+    </url>
+    <url>
+        <loc>https://cybercentrecanada.github.io/howler-docs/odm/class/gcp/</loc>
+        <lastmod>2025-06-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://cybercentrecanada.github.io/howler-docs/odm/class/gcp/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://cybercentrecanada.github.io/howler-docs/fr/odm/class/gcp/"/>
+    </url>
+    <url>
+        <loc>https://cybercentrecanada.github.io/howler-docs/odm/class/geo/</loc>
+        <lastmod>2025-06-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://cybercentrecanada.github.io/howler-docs/odm/class/geo/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://cybercentrecanada.github.io/howler-docs/fr/odm/class/geo/"/>
+    </url>
+    <url>
+        <loc>https://cybercentrecanada.github.io/howler-docs/odm/class/geopoint/</loc>
+        <lastmod>2025-06-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://cybercentrecanada.github.io/howler-docs/odm/class/geopoint/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://cybercentrecanada.github.io/howler-docs/fr/odm/class/geopoint/"/>
+    </url>
+    <url>
+        <loc>https://cybercentrecanada.github.io/howler-docs/odm/class/group/</loc>
+        <lastmod>2025-06-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://cybercentrecanada.github.io/howler-docs/odm/class/group/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://cybercentrecanada.github.io/howler-docs/fr/odm/class/group/"/>
+    </url>
+    <url>
+        <loc>https://cybercentrecanada.github.io/howler-docs/odm/class/hash/</loc>
+        <lastmod>2025-06-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://cybercentrecanada.github.io/howler-docs/odm/class/hash/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://cybercentrecanada.github.io/howler-docs/fr/odm/class/hash/"/>
+    </url>
+    <url>
+        <loc>https://cybercentrecanada.github.io/howler-docs/odm/class/hashes/</loc>
+        <lastmod>2025-06-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://cybercentrecanada.github.io/howler-docs/odm/class/hashes/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://cybercentrecanada.github.io/howler-docs/fr/odm/class/hashes/"/>
+    </url>
+    <url>
+        <loc>https://cybercentrecanada.github.io/howler-docs/odm/class/header/</loc>
+        <lastmod>2025-06-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://cybercentrecanada.github.io/howler-docs/odm/class/header/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://cybercentrecanada.github.io/howler-docs/fr/odm/class/header/"/>
+    </url>
+    <url>
+        <loc>https://cybercentrecanada.github.io/howler-docs/odm/class/hit/</loc>
+        <lastmod>2025-06-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://cybercentrecanada.github.io/howler-docs/odm/class/hit/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://cybercentrecanada.github.io/howler-docs/fr/odm/class/hit/"/>
+    </url>
+    <url>
+        <loc>https://cybercentrecanada.github.io/howler-docs/odm/class/host/</loc>
+        <lastmod>2025-06-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://cybercentrecanada.github.io/howler-docs/odm/class/host/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://cybercentrecanada.github.io/howler-docs/fr/odm/class/host/"/>
+    </url>
+    <url>
+        <loc>https://cybercentrecanada.github.io/howler-docs/odm/class/howlerdata/</loc>
+        <lastmod>2025-06-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://cybercentrecanada.github.io/howler-docs/odm/class/howlerdata/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://cybercentrecanada.github.io/howler-docs/fr/odm/class/howlerdata/"/>
+    </url>
+    <url>
+        <loc>https://cybercentrecanada.github.io/howler-docs/odm/class/http/</loc>
+        <lastmod>2025-06-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://cybercentrecanada.github.io/howler-docs/odm/class/http/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://cybercentrecanada.github.io/howler-docs/fr/odm/class/http/"/>
+    </url>
+    <url>
+        <loc>https://cybercentrecanada.github.io/howler-docs/odm/class/image/</loc>
+        <lastmod>2025-06-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://cybercentrecanada.github.io/howler-docs/odm/class/image/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://cybercentrecanada.github.io/howler-docs/fr/odm/class/image/"/>
+    </url>
+    <url>
+        <loc>https://cybercentrecanada.github.io/howler-docs/odm/class/indicator/</loc>
+        <lastmod>2025-06-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://cybercentrecanada.github.io/howler-docs/odm/class/indicator/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://cybercentrecanada.github.io/howler-docs/fr/odm/class/indicator/"/>
+    </url>
+    <url>
+        <loc>https://cybercentrecanada.github.io/howler-docs/odm/class/instance/</loc>
+        <lastmod>2025-06-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://cybercentrecanada.github.io/howler-docs/odm/class/instance/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://cybercentrecanada.github.io/howler-docs/fr/odm/class/instance/"/>
+    </url>
+    <url>
+        <loc>https://cybercentrecanada.github.io/howler-docs/odm/class/label/</loc>
+        <lastmod>2025-06-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://cybercentrecanada.github.io/howler-docs/odm/class/label/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://cybercentrecanada.github.io/howler-docs/fr/odm/class/label/"/>
+    </url>
+    <url>
+        <loc>https://cybercentrecanada.github.io/howler-docs/odm/class/link/</loc>
+        <lastmod>2025-06-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://cybercentrecanada.github.io/howler-docs/odm/class/link/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://cybercentrecanada.github.io/howler-docs/fr/odm/class/link/"/>
+    </url>
+    <url>
+        <loc>https://cybercentrecanada.github.io/howler-docs/odm/class/log/</loc>
+        <lastmod>2025-06-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://cybercentrecanada.github.io/howler-docs/odm/class/log/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://cybercentrecanada.github.io/howler-docs/fr/odm/class/log/"/>
+    </url>
+    <url>
+        <loc>https://cybercentrecanada.github.io/howler-docs/odm/class/machine/</loc>
+        <lastmod>2025-06-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://cybercentrecanada.github.io/howler-docs/odm/class/machine/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://cybercentrecanada.github.io/howler-docs/fr/odm/class/machine/"/>
+    </url>
+    <url>
+        <loc>https://cybercentrecanada.github.io/howler-docs/odm/class/nat/</loc>
+        <lastmod>2025-06-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://cybercentrecanada.github.io/howler-docs/odm/class/nat/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://cybercentrecanada.github.io/howler-docs/fr/odm/class/nat/"/>
+    </url>
+    <url>
+        <loc>https://cybercentrecanada.github.io/howler-docs/odm/class/organization/</loc>
+        <lastmod>2025-06-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://cybercentrecanada.github.io/howler-docs/odm/class/organization/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://cybercentrecanada.github.io/howler-docs/fr/odm/class/organization/"/>
+    </url>
+    <url>
+        <loc>https://cybercentrecanada.github.io/howler-docs/odm/class/os/</loc>
+        <lastmod>2025-06-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://cybercentrecanada.github.io/howler-docs/odm/class/os/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://cybercentrecanada.github.io/howler-docs/fr/odm/class/os/"/>
+    </url>
+    <url>
+        <loc>https://cybercentrecanada.github.io/howler-docs/odm/class/parentemail/</loc>
+        <lastmod>2025-06-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://cybercentrecanada.github.io/howler-docs/odm/class/parentemail/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://cybercentrecanada.github.io/howler-docs/fr/odm/class/parentemail/"/>
+    </url>
+    <url>
+        <loc>https://cybercentrecanada.github.io/howler-docs/odm/class/parentprocess/</loc>
+        <lastmod>2025-06-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://cybercentrecanada.github.io/howler-docs/odm/class/parentprocess/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://cybercentrecanada.github.io/howler-docs/fr/odm/class/parentprocess/"/>
+    </url>
+    <url>
+        <loc>https://cybercentrecanada.github.io/howler-docs/odm/class/pe/</loc>
+        <lastmod>2025-06-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://cybercentrecanada.github.io/howler-docs/odm/class/pe/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://cybercentrecanada.github.io/howler-docs/fr/odm/class/pe/"/>
+    </url>
+    <url>
+        <loc>https://cybercentrecanada.github.io/howler-docs/odm/class/previousprocess/</loc>
+        <lastmod>2025-06-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://cybercentrecanada.github.io/howler-docs/odm/class/previousprocess/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://cybercentrecanada.github.io/howler-docs/fr/odm/class/previousprocess/"/>
+    </url>
+    <url>
+        <loc>https://cybercentrecanada.github.io/howler-docs/odm/class/process/</loc>
+        <lastmod>2025-06-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://cybercentrecanada.github.io/howler-docs/odm/class/process/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://cybercentrecanada.github.io/howler-docs/fr/odm/class/process/"/>
+    </url>
+    <url>
+        <loc>https://cybercentrecanada.github.io/howler-docs/odm/class/project/</loc>
+        <lastmod>2025-06-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://cybercentrecanada.github.io/howler-docs/odm/class/project/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://cybercentrecanada.github.io/howler-docs/fr/odm/class/project/"/>
+    </url>
+    <url>
+        <loc>https://cybercentrecanada.github.io/howler-docs/odm/class/registry/</loc>
+        <lastmod>2025-06-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://cybercentrecanada.github.io/howler-docs/odm/class/registry/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://cybercentrecanada.github.io/howler-docs/fr/odm/class/registry/"/>
+    </url>
+    <url>
+        <loc>https://cybercentrecanada.github.io/howler-docs/odm/class/registrydata/</loc>
+        <lastmod>2025-06-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://cybercentrecanada.github.io/howler-docs/odm/class/registrydata/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://cybercentrecanada.github.io/howler-docs/fr/odm/class/registrydata/"/>
+    </url>
+    <url>
+        <loc>https://cybercentrecanada.github.io/howler-docs/odm/class/related/</loc>
+        <lastmod>2025-06-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://cybercentrecanada.github.io/howler-docs/odm/class/related/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://cybercentrecanada.github.io/howler-docs/fr/odm/class/related/"/>
+    </url>
+    <url>
+        <loc>https://cybercentrecanada.github.io/howler-docs/odm/class/request/</loc>
+        <lastmod>2025-06-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://cybercentrecanada.github.io/howler-docs/odm/class/request/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://cybercentrecanada.github.io/howler-docs/fr/odm/class/request/"/>
+    </url>
+    <url>
+        <loc>https://cybercentrecanada.github.io/howler-docs/odm/class/response/</loc>
+        <lastmod>2025-06-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://cybercentrecanada.github.io/howler-docs/odm/class/response/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://cybercentrecanada.github.io/howler-docs/fr/odm/class/response/"/>
+    </url>
+    <url>
+        <loc>https://cybercentrecanada.github.io/howler-docs/odm/class/rule/</loc>
+        <lastmod>2025-06-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://cybercentrecanada.github.io/howler-docs/odm/class/rule/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://cybercentrecanada.github.io/howler-docs/fr/odm/class/rule/"/>
+    </url>
+    <url>
+        <loc>https://cybercentrecanada.github.io/howler-docs/odm/class/section/</loc>
+        <lastmod>2025-06-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://cybercentrecanada.github.io/howler-docs/odm/class/section/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://cybercentrecanada.github.io/howler-docs/fr/odm/class/section/"/>
+    </url>
+    <url>
+        <loc>https://cybercentrecanada.github.io/howler-docs/odm/class/segment/</loc>
+        <lastmod>2025-06-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://cybercentrecanada.github.io/howler-docs/odm/class/segment/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://cybercentrecanada.github.io/howler-docs/fr/odm/class/segment/"/>
+    </url>
+    <url>
+        <loc>https://cybercentrecanada.github.io/howler-docs/odm/class/server/</loc>
+        <lastmod>2025-06-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://cybercentrecanada.github.io/howler-docs/odm/class/server/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://cybercentrecanada.github.io/howler-docs/fr/odm/class/server/"/>
+    </url>
+    <url>
+        <loc>https://cybercentrecanada.github.io/howler-docs/odm/class/service/</loc>
+        <lastmod>2025-06-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://cybercentrecanada.github.io/howler-docs/odm/class/service/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://cybercentrecanada.github.io/howler-docs/fr/odm/class/service/"/>
+    </url>
+    <url>
+        <loc>https://cybercentrecanada.github.io/howler-docs/odm/class/sharepoint/</loc>
+        <lastmod>2025-06-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://cybercentrecanada.github.io/howler-docs/odm/class/sharepoint/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://cybercentrecanada.github.io/howler-docs/fr/odm/class/sharepoint/"/>
+    </url>
+    <url>
+        <loc>https://cybercentrecanada.github.io/howler-docs/odm/class/sharepointdata/</loc>
+        <lastmod>2025-06-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://cybercentrecanada.github.io/howler-docs/odm/class/sharepointdata/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://cybercentrecanada.github.io/howler-docs/fr/odm/class/sharepointdata/"/>
+    </url>
+    <url>
+        <loc>https://cybercentrecanada.github.io/howler-docs/odm/class/sharepointuser/</loc>
+        <lastmod>2025-06-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://cybercentrecanada.github.io/howler-docs/odm/class/sharepointuser/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://cybercentrecanada.github.io/howler-docs/fr/odm/class/sharepointuser/"/>
+    </url>
+    <url>
+        <loc>https://cybercentrecanada.github.io/howler-docs/odm/class/shortgroup/</loc>
+        <lastmod>2025-06-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://cybercentrecanada.github.io/howler-docs/odm/class/shortgroup/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://cybercentrecanada.github.io/howler-docs/fr/odm/class/shortgroup/"/>
+    </url>
+    <url>
+        <loc>https://cybercentrecanada.github.io/howler-docs/odm/class/shortuser/</loc>
+        <lastmod>2025-06-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://cybercentrecanada.github.io/howler-docs/odm/class/shortuser/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://cybercentrecanada.github.io/howler-docs/fr/odm/class/shortuser/"/>
+    </url>
+    <url>
+        <loc>https://cybercentrecanada.github.io/howler-docs/odm/class/software/</loc>
+        <lastmod>2025-06-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://cybercentrecanada.github.io/howler-docs/odm/class/software/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://cybercentrecanada.github.io/howler-docs/fr/odm/class/software/"/>
+    </url>
+    <url>
+        <loc>https://cybercentrecanada.github.io/howler-docs/odm/class/subtechnique/</loc>
+        <lastmod>2025-06-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://cybercentrecanada.github.io/howler-docs/odm/class/subtechnique/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://cybercentrecanada.github.io/howler-docs/fr/odm/class/subtechnique/"/>
+    </url>
+    <url>
+        <loc>https://cybercentrecanada.github.io/howler-docs/odm/class/tactic/</loc>
+        <lastmod>2025-06-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://cybercentrecanada.github.io/howler-docs/odm/class/tactic/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://cybercentrecanada.github.io/howler-docs/fr/odm/class/tactic/"/>
+    </url>
+    <url>
+        <loc>https://cybercentrecanada.github.io/howler-docs/odm/class/technique/</loc>
+        <lastmod>2025-06-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://cybercentrecanada.github.io/howler-docs/odm/class/technique/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://cybercentrecanada.github.io/howler-docs/fr/odm/class/technique/"/>
+    </url>
+    <url>
+        <loc>https://cybercentrecanada.github.io/howler-docs/odm/class/thread/</loc>
+        <lastmod>2025-06-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://cybercentrecanada.github.io/howler-docs/odm/class/thread/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://cybercentrecanada.github.io/howler-docs/fr/odm/class/thread/"/>
+    </url>
+    <url>
+        <loc>https://cybercentrecanada.github.io/howler-docs/odm/class/threat/</loc>
+        <lastmod>2025-06-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://cybercentrecanada.github.io/howler-docs/odm/class/threat/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://cybercentrecanada.github.io/howler-docs/fr/odm/class/threat/"/>
+    </url>
+    <url>
+        <loc>https://cybercentrecanada.github.io/howler-docs/odm/class/tls/</loc>
+        <lastmod>2025-06-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://cybercentrecanada.github.io/howler-docs/odm/class/tls/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://cybercentrecanada.github.io/howler-docs/fr/odm/class/tls/"/>
+    </url>
+    <url>
+        <loc>https://cybercentrecanada.github.io/howler-docs/odm/class/trigger/</loc>
+        <lastmod>2025-06-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://cybercentrecanada.github.io/howler-docs/odm/class/trigger/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://cybercentrecanada.github.io/howler-docs/fr/odm/class/trigger/"/>
+    </url>
+    <url>
+        <loc>https://cybercentrecanada.github.io/howler-docs/odm/class/tty/</loc>
+        <lastmod>2025-06-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://cybercentrecanada.github.io/howler-docs/odm/class/tty/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://cybercentrecanada.github.io/howler-docs/fr/odm/class/tty/"/>
+    </url>
+    <url>
+        <loc>https://cybercentrecanada.github.io/howler-docs/odm/class/url/</loc>
+        <lastmod>2025-06-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://cybercentrecanada.github.io/howler-docs/odm/class/url/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://cybercentrecanada.github.io/howler-docs/fr/odm/class/url/"/>
+    </url>
+    <url>
+        <loc>https://cybercentrecanada.github.io/howler-docs/odm/class/user/</loc>
+        <lastmod>2025-06-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://cybercentrecanada.github.io/howler-docs/odm/class/user/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://cybercentrecanada.github.io/howler-docs/fr/odm/class/user/"/>
+    </url>
+    <url>
+        <loc>https://cybercentrecanada.github.io/howler-docs/odm/class/useragent/</loc>
+        <lastmod>2025-06-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://cybercentrecanada.github.io/howler-docs/odm/class/useragent/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://cybercentrecanada.github.io/howler-docs/fr/odm/class/useragent/"/>
+    </url>
+    <url>
+        <loc>https://cybercentrecanada.github.io/howler-docs/odm/class/usernested/</loc>
+        <lastmod>2025-06-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://cybercentrecanada.github.io/howler-docs/odm/class/usernested/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://cybercentrecanada.github.io/howler-docs/fr/odm/class/usernested/"/>
+    </url>
+    <url>
+        <loc>https://cybercentrecanada.github.io/howler-docs/odm/class/votes/</loc>
+        <lastmod>2025-06-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://cybercentrecanada.github.io/howler-docs/odm/class/votes/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://cybercentrecanada.github.io/howler-docs/fr/odm/class/votes/"/>
+    </url>
+    <url>
+        <loc>https://cybercentrecanada.github.io/howler-docs/odm/class/vulnerability/</loc>
+        <lastmod>2025-06-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://cybercentrecanada.github.io/howler-docs/odm/class/vulnerability/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://cybercentrecanada.github.io/howler-docs/fr/odm/class/vulnerability/"/>
+    </url>
+    <url>
+        <loc>https://cybercentrecanada.github.io/howler-docs/overview/architecture/</loc>
+        <lastmod>2025-06-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://cybercentrecanada.github.io/howler-docs/overview/architecture/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://cybercentrecanada.github.io/howler-docs/fr/overview/architecture/"/>
+    </url>
+    <url>
+        <loc>https://cybercentrecanada.github.io/howler-docs/overview/detection_engineers/</loc>
+        <lastmod>2025-06-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://cybercentrecanada.github.io/howler-docs/overview/detection_engineers/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://cybercentrecanada.github.io/howler-docs/fr/overview/detection_engineers/"/>
+    </url>
+    <url>
+        <loc>https://cybercentrecanada.github.io/howler-docs/overview/triage_analysts/</loc>
+        <lastmod>2025-06-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="en" href="https://cybercentrecanada.github.io/howler-docs/overview/triage_analysts/"/>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://cybercentrecanada.github.io/howler-docs/fr/overview/triage_analysts/"/>
+    </url>
+    <url>
+        <loc>https://cybercentrecanada.github.io/howler-docs/fr/</loc>
+        <lastmod>2025-06-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://cybercentrecanada.github.io/howler-docs/fr/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://cybercentrecanada.github.io/howler-docs/"/>
+    </url>
+    <url>
+        <loc>https://cybercentrecanada.github.io/howler-docs/fr/developer/backend/</loc>
+        <lastmod>2025-06-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://cybercentrecanada.github.io/howler-docs/fr/developer/backend/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://cybercentrecanada.github.io/howler-docs/developer/backend/"/>
+    </url>
+    <url>
+        <loc>https://cybercentrecanada.github.io/howler-docs/fr/developer/client/</loc>
+        <lastmod>2025-06-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://cybercentrecanada.github.io/howler-docs/fr/developer/client/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://cybercentrecanada.github.io/howler-docs/developer/client/"/>
+    </url>
+    <url>
+        <loc>https://cybercentrecanada.github.io/howler-docs/fr/developer/frontend/</loc>
+        <lastmod>2025-06-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://cybercentrecanada.github.io/howler-docs/fr/developer/frontend/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://cybercentrecanada.github.io/howler-docs/developer/frontend/"/>
+    </url>
+    <url>
+        <loc>https://cybercentrecanada.github.io/howler-docs/fr/developer/getting_started/</loc>
+        <lastmod>2025-06-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://cybercentrecanada.github.io/howler-docs/fr/developer/getting_started/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://cybercentrecanada.github.io/howler-docs/developer/getting_started/"/>
+    </url>
+    <url>
+        <loc>https://cybercentrecanada.github.io/howler-docs/fr/developer/random_data/</loc>
+        <lastmod>2025-06-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://cybercentrecanada.github.io/howler-docs/fr/developer/random_data/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://cybercentrecanada.github.io/howler-docs/developer/random_data/"/>
+    </url>
+    <url>
+        <loc>https://cybercentrecanada.github.io/howler-docs/fr/ingestion/authentication/</loc>
+        <lastmod>2025-06-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://cybercentrecanada.github.io/howler-docs/fr/ingestion/authentication/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://cybercentrecanada.github.io/howler-docs/ingestion/authentication/"/>
+    </url>
+    <url>
+        <loc>https://cybercentrecanada.github.io/howler-docs/fr/ingestion/bundles/</loc>
+        <lastmod>2025-06-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://cybercentrecanada.github.io/howler-docs/fr/ingestion/bundles/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://cybercentrecanada.github.io/howler-docs/ingestion/bundles/"/>
+    </url>
+    <url>
+        <loc>https://cybercentrecanada.github.io/howler-docs/fr/ingestion/client/</loc>
+        <lastmod>2025-06-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://cybercentrecanada.github.io/howler-docs/fr/ingestion/client/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://cybercentrecanada.github.io/howler-docs/ingestion/client/"/>
+    </url>
+    <url>
+        <loc>https://cybercentrecanada.github.io/howler-docs/fr/ingestion/example/</loc>
+        <lastmod>2025-06-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://cybercentrecanada.github.io/howler-docs/fr/ingestion/example/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://cybercentrecanada.github.io/howler-docs/ingestion/example/"/>
+    </url>
+    <url>
+        <loc>https://cybercentrecanada.github.io/howler-docs/fr/ingestion/key_generation/</loc>
+        <lastmod>2025-06-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://cybercentrecanada.github.io/howler-docs/fr/ingestion/key_generation/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://cybercentrecanada.github.io/howler-docs/ingestion/key_generation/"/>
+    </url>
+    <url>
+        <loc>https://cybercentrecanada.github.io/howler-docs/fr/ingestion/links/</loc>
+        <lastmod>2025-06-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://cybercentrecanada.github.io/howler-docs/fr/ingestion/links/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://cybercentrecanada.github.io/howler-docs/ingestion/links/"/>
+    </url>
+    <url>
+        <loc>https://cybercentrecanada.github.io/howler-docs/fr/ingestion/user/</loc>
+        <lastmod>2025-06-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://cybercentrecanada.github.io/howler-docs/fr/ingestion/user/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://cybercentrecanada.github.io/howler-docs/ingestion/user/"/>
+    </url>
+    <url>
+        <loc>https://cybercentrecanada.github.io/howler-docs/fr/installation/configuration/</loc>
+        <lastmod>2025-06-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://cybercentrecanada.github.io/howler-docs/fr/installation/configuration/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://cybercentrecanada.github.io/howler-docs/installation/configuration/"/>
+    </url>
+    <url>
+        <loc>https://cybercentrecanada.github.io/howler-docs/fr/installation/default_configuration/</loc>
+        <lastmod>2025-06-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://cybercentrecanada.github.io/howler-docs/fr/installation/default_configuration/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://cybercentrecanada.github.io/howler-docs/installation/default_configuration/"/>
+    </url>
+    <url>
+        <loc>https://cybercentrecanada.github.io/howler-docs/fr/installation/deployment/</loc>
+        <lastmod>2025-06-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://cybercentrecanada.github.io/howler-docs/fr/installation/deployment/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://cybercentrecanada.github.io/howler-docs/installation/deployment/"/>
+    </url>
+    <url>
+        <loc>https://cybercentrecanada.github.io/howler-docs/fr/installation/deployment_minikube/</loc>
+        <lastmod>2025-06-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://cybercentrecanada.github.io/howler-docs/fr/installation/deployment_minikube/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://cybercentrecanada.github.io/howler-docs/installation/deployment_minikube/"/>
+    </url>
+    <url>
+        <loc>https://cybercentrecanada.github.io/howler-docs/fr/odm/getting_started/</loc>
+        <lastmod>2025-06-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://cybercentrecanada.github.io/howler-docs/fr/odm/getting_started/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://cybercentrecanada.github.io/howler-docs/odm/getting_started/"/>
+    </url>
+    <url>
+        <loc>https://cybercentrecanada.github.io/howler-docs/fr/odm/class/account/</loc>
+        <lastmod>2025-06-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://cybercentrecanada.github.io/howler-docs/fr/odm/class/account/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://cybercentrecanada.github.io/howler-docs/odm/class/account/"/>
+    </url>
+    <url>
+        <loc>https://cybercentrecanada.github.io/howler-docs/fr/odm/class/address/</loc>
+        <lastmod>2025-06-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://cybercentrecanada.github.io/howler-docs/fr/odm/class/address/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://cybercentrecanada.github.io/howler-docs/odm/class/address/"/>
+    </url>
+    <url>
+        <loc>https://cybercentrecanada.github.io/howler-docs/fr/odm/class/agent/</loc>
+        <lastmod>2025-06-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://cybercentrecanada.github.io/howler-docs/fr/odm/class/agent/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://cybercentrecanada.github.io/howler-docs/odm/class/agent/"/>
+    </url>
+    <url>
+        <loc>https://cybercentrecanada.github.io/howler-docs/fr/odm/class/assemblyline/</loc>
+        <lastmod>2025-06-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://cybercentrecanada.github.io/howler-docs/fr/odm/class/assemblyline/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://cybercentrecanada.github.io/howler-docs/odm/class/assemblyline/"/>
+    </url>
+    <url>
+        <loc>https://cybercentrecanada.github.io/howler-docs/fr/odm/class/attachment/</loc>
+        <lastmod>2025-06-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://cybercentrecanada.github.io/howler-docs/fr/odm/class/attachment/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://cybercentrecanada.github.io/howler-docs/odm/class/attachment/"/>
+    </url>
+    <url>
+        <loc>https://cybercentrecanada.github.io/howler-docs/fr/odm/class/aws/</loc>
+        <lastmod>2025-06-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://cybercentrecanada.github.io/howler-docs/fr/odm/class/aws/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://cybercentrecanada.github.io/howler-docs/odm/class/aws/"/>
+    </url>
+    <url>
+        <loc>https://cybercentrecanada.github.io/howler-docs/fr/odm/class/azure/</loc>
+        <lastmod>2025-06-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://cybercentrecanada.github.io/howler-docs/fr/odm/class/azure/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://cybercentrecanada.github.io/howler-docs/odm/class/azure/"/>
+    </url>
+    <url>
+        <loc>https://cybercentrecanada.github.io/howler-docs/fr/odm/class/body/</loc>
+        <lastmod>2025-06-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://cybercentrecanada.github.io/howler-docs/fr/odm/class/body/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://cybercentrecanada.github.io/howler-docs/odm/class/body/"/>
+    </url>
+    <url>
+        <loc>https://cybercentrecanada.github.io/howler-docs/fr/odm/class/cbs/</loc>
+        <lastmod>2025-06-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://cybercentrecanada.github.io/howler-docs/fr/odm/class/cbs/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://cybercentrecanada.github.io/howler-docs/odm/class/cbs/"/>
+    </url>
+    <url>
+        <loc>https://cybercentrecanada.github.io/howler-docs/fr/odm/class/chardevice/</loc>
+        <lastmod>2025-06-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://cybercentrecanada.github.io/howler-docs/fr/odm/class/chardevice/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://cybercentrecanada.github.io/howler-docs/odm/class/chardevice/"/>
+    </url>
+    <url>
+        <loc>https://cybercentrecanada.github.io/howler-docs/fr/odm/class/client/</loc>
+        <lastmod>2025-06-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://cybercentrecanada.github.io/howler-docs/fr/odm/class/client/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://cybercentrecanada.github.io/howler-docs/odm/class/client/"/>
+    </url>
+    <url>
+        <loc>https://cybercentrecanada.github.io/howler-docs/fr/odm/class/cloud/</loc>
+        <lastmod>2025-06-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://cybercentrecanada.github.io/howler-docs/fr/odm/class/cloud/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://cybercentrecanada.github.io/howler-docs/odm/class/cloud/"/>
+    </url>
+    <url>
+        <loc>https://cybercentrecanada.github.io/howler-docs/fr/odm/class/codesignature/</loc>
+        <lastmod>2025-06-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://cybercentrecanada.github.io/howler-docs/fr/odm/class/codesignature/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://cybercentrecanada.github.io/howler-docs/odm/class/codesignature/"/>
+    </url>
+    <url>
+        <loc>https://cybercentrecanada.github.io/howler-docs/fr/odm/class/comment/</loc>
+        <lastmod>2025-06-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://cybercentrecanada.github.io/howler-docs/fr/odm/class/comment/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://cybercentrecanada.github.io/howler-docs/odm/class/comment/"/>
+    </url>
+    <url>
+        <loc>https://cybercentrecanada.github.io/howler-docs/fr/odm/class/container/</loc>
+        <lastmod>2025-06-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://cybercentrecanada.github.io/howler-docs/fr/odm/class/container/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://cybercentrecanada.github.io/howler-docs/odm/class/container/"/>
+    </url>
+    <url>
+        <loc>https://cybercentrecanada.github.io/howler-docs/fr/odm/class/device/</loc>
+        <lastmod>2025-06-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://cybercentrecanada.github.io/howler-docs/fr/odm/class/device/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://cybercentrecanada.github.io/howler-docs/odm/class/device/"/>
+    </url>
+    <url>
+        <loc>https://cybercentrecanada.github.io/howler-docs/fr/odm/class/dns/</loc>
+        <lastmod>2025-06-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://cybercentrecanada.github.io/howler-docs/fr/odm/class/dns/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://cybercentrecanada.github.io/howler-docs/odm/class/dns/"/>
+    </url>
+    <url>
+        <loc>https://cybercentrecanada.github.io/howler-docs/fr/odm/class/dnsanswer/</loc>
+        <lastmod>2025-06-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://cybercentrecanada.github.io/howler-docs/fr/odm/class/dnsanswer/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://cybercentrecanada.github.io/howler-docs/odm/class/dnsanswer/"/>
+    </url>
+    <url>
+        <loc>https://cybercentrecanada.github.io/howler-docs/fr/odm/class/dnsquestion/</loc>
+        <lastmod>2025-06-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://cybercentrecanada.github.io/howler-docs/fr/odm/class/dnsquestion/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://cybercentrecanada.github.io/howler-docs/odm/class/dnsquestion/"/>
+    </url>
+    <url>
+        <loc>https://cybercentrecanada.github.io/howler-docs/fr/odm/class/ecsversion/</loc>
+        <lastmod>2025-06-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://cybercentrecanada.github.io/howler-docs/fr/odm/class/ecsversion/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://cybercentrecanada.github.io/howler-docs/odm/class/ecsversion/"/>
+    </url>
+    <url>
+        <loc>https://cybercentrecanada.github.io/howler-docs/fr/odm/class/elf/</loc>
+        <lastmod>2025-06-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://cybercentrecanada.github.io/howler-docs/fr/odm/class/elf/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://cybercentrecanada.github.io/howler-docs/odm/class/elf/"/>
+    </url>
+    <url>
+        <loc>https://cybercentrecanada.github.io/howler-docs/fr/odm/class/email/</loc>
+        <lastmod>2025-06-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://cybercentrecanada.github.io/howler-docs/fr/odm/class/email/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://cybercentrecanada.github.io/howler-docs/odm/class/email/"/>
+    </url>
+    <url>
+        <loc>https://cybercentrecanada.github.io/howler-docs/fr/odm/class/error/</loc>
+        <lastmod>2025-06-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://cybercentrecanada.github.io/howler-docs/fr/odm/class/error/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://cybercentrecanada.github.io/howler-docs/odm/class/error/"/>
+    </url>
+    <url>
+        <loc>https://cybercentrecanada.github.io/howler-docs/fr/odm/class/event/</loc>
+        <lastmod>2025-06-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://cybercentrecanada.github.io/howler-docs/fr/odm/class/event/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://cybercentrecanada.github.io/howler-docs/odm/class/event/"/>
+    </url>
+    <url>
+        <loc>https://cybercentrecanada.github.io/howler-docs/fr/odm/class/faas/</loc>
+        <lastmod>2025-06-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://cybercentrecanada.github.io/howler-docs/fr/odm/class/faas/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://cybercentrecanada.github.io/howler-docs/odm/class/faas/"/>
+    </url>
+    <url>
+        <loc>https://cybercentrecanada.github.io/howler-docs/fr/odm/class/feed/</loc>
+        <lastmod>2025-06-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://cybercentrecanada.github.io/howler-docs/fr/odm/class/feed/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://cybercentrecanada.github.io/howler-docs/odm/class/feed/"/>
+    </url>
+    <url>
+        <loc>https://cybercentrecanada.github.io/howler-docs/fr/odm/class/file/</loc>
+        <lastmod>2025-06-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://cybercentrecanada.github.io/howler-docs/fr/odm/class/file/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://cybercentrecanada.github.io/howler-docs/odm/class/file/"/>
+    </url>
+    <url>
+        <loc>https://cybercentrecanada.github.io/howler-docs/fr/odm/class/gcp/</loc>
+        <lastmod>2025-06-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://cybercentrecanada.github.io/howler-docs/fr/odm/class/gcp/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://cybercentrecanada.github.io/howler-docs/odm/class/gcp/"/>
+    </url>
+    <url>
+        <loc>https://cybercentrecanada.github.io/howler-docs/fr/odm/class/geo/</loc>
+        <lastmod>2025-06-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://cybercentrecanada.github.io/howler-docs/fr/odm/class/geo/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://cybercentrecanada.github.io/howler-docs/odm/class/geo/"/>
+    </url>
+    <url>
+        <loc>https://cybercentrecanada.github.io/howler-docs/fr/odm/class/geopoint/</loc>
+        <lastmod>2025-06-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://cybercentrecanada.github.io/howler-docs/fr/odm/class/geopoint/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://cybercentrecanada.github.io/howler-docs/odm/class/geopoint/"/>
+    </url>
+    <url>
+        <loc>https://cybercentrecanada.github.io/howler-docs/fr/odm/class/group/</loc>
+        <lastmod>2025-06-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://cybercentrecanada.github.io/howler-docs/fr/odm/class/group/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://cybercentrecanada.github.io/howler-docs/odm/class/group/"/>
+    </url>
+    <url>
+        <loc>https://cybercentrecanada.github.io/howler-docs/fr/odm/class/hash/</loc>
+        <lastmod>2025-06-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://cybercentrecanada.github.io/howler-docs/fr/odm/class/hash/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://cybercentrecanada.github.io/howler-docs/odm/class/hash/"/>
+    </url>
+    <url>
+        <loc>https://cybercentrecanada.github.io/howler-docs/fr/odm/class/hashes/</loc>
+        <lastmod>2025-06-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://cybercentrecanada.github.io/howler-docs/fr/odm/class/hashes/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://cybercentrecanada.github.io/howler-docs/odm/class/hashes/"/>
+    </url>
+    <url>
+        <loc>https://cybercentrecanada.github.io/howler-docs/fr/odm/class/header/</loc>
+        <lastmod>2025-06-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://cybercentrecanada.github.io/howler-docs/fr/odm/class/header/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://cybercentrecanada.github.io/howler-docs/odm/class/header/"/>
+    </url>
+    <url>
+        <loc>https://cybercentrecanada.github.io/howler-docs/fr/odm/class/hit/</loc>
+        <lastmod>2025-06-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://cybercentrecanada.github.io/howler-docs/fr/odm/class/hit/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://cybercentrecanada.github.io/howler-docs/odm/class/hit/"/>
+    </url>
+    <url>
+        <loc>https://cybercentrecanada.github.io/howler-docs/fr/odm/class/host/</loc>
+        <lastmod>2025-06-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://cybercentrecanada.github.io/howler-docs/fr/odm/class/host/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://cybercentrecanada.github.io/howler-docs/odm/class/host/"/>
+    </url>
+    <url>
+        <loc>https://cybercentrecanada.github.io/howler-docs/fr/odm/class/howlerdata/</loc>
+        <lastmod>2025-06-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://cybercentrecanada.github.io/howler-docs/fr/odm/class/howlerdata/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://cybercentrecanada.github.io/howler-docs/odm/class/howlerdata/"/>
+    </url>
+    <url>
+        <loc>https://cybercentrecanada.github.io/howler-docs/fr/odm/class/http/</loc>
+        <lastmod>2025-06-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://cybercentrecanada.github.io/howler-docs/fr/odm/class/http/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://cybercentrecanada.github.io/howler-docs/odm/class/http/"/>
+    </url>
+    <url>
+        <loc>https://cybercentrecanada.github.io/howler-docs/fr/odm/class/image/</loc>
+        <lastmod>2025-06-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://cybercentrecanada.github.io/howler-docs/fr/odm/class/image/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://cybercentrecanada.github.io/howler-docs/odm/class/image/"/>
+    </url>
+    <url>
+        <loc>https://cybercentrecanada.github.io/howler-docs/fr/odm/class/indicator/</loc>
+        <lastmod>2025-06-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://cybercentrecanada.github.io/howler-docs/fr/odm/class/indicator/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://cybercentrecanada.github.io/howler-docs/odm/class/indicator/"/>
+    </url>
+    <url>
+        <loc>https://cybercentrecanada.github.io/howler-docs/fr/odm/class/instance/</loc>
+        <lastmod>2025-06-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://cybercentrecanada.github.io/howler-docs/fr/odm/class/instance/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://cybercentrecanada.github.io/howler-docs/odm/class/instance/"/>
+    </url>
+    <url>
+        <loc>https://cybercentrecanada.github.io/howler-docs/fr/odm/class/label/</loc>
+        <lastmod>2025-06-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://cybercentrecanada.github.io/howler-docs/fr/odm/class/label/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://cybercentrecanada.github.io/howler-docs/odm/class/label/"/>
+    </url>
+    <url>
+        <loc>https://cybercentrecanada.github.io/howler-docs/fr/odm/class/link/</loc>
+        <lastmod>2025-06-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://cybercentrecanada.github.io/howler-docs/fr/odm/class/link/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://cybercentrecanada.github.io/howler-docs/odm/class/link/"/>
+    </url>
+    <url>
+        <loc>https://cybercentrecanada.github.io/howler-docs/fr/odm/class/log/</loc>
+        <lastmod>2025-06-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://cybercentrecanada.github.io/howler-docs/fr/odm/class/log/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://cybercentrecanada.github.io/howler-docs/odm/class/log/"/>
+    </url>
+    <url>
+        <loc>https://cybercentrecanada.github.io/howler-docs/fr/odm/class/machine/</loc>
+        <lastmod>2025-06-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://cybercentrecanada.github.io/howler-docs/fr/odm/class/machine/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://cybercentrecanada.github.io/howler-docs/odm/class/machine/"/>
+    </url>
+    <url>
+        <loc>https://cybercentrecanada.github.io/howler-docs/fr/odm/class/nat/</loc>
+        <lastmod>2025-06-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://cybercentrecanada.github.io/howler-docs/fr/odm/class/nat/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://cybercentrecanada.github.io/howler-docs/odm/class/nat/"/>
+    </url>
+    <url>
+        <loc>https://cybercentrecanada.github.io/howler-docs/fr/odm/class/organization/</loc>
+        <lastmod>2025-06-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://cybercentrecanada.github.io/howler-docs/fr/odm/class/organization/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://cybercentrecanada.github.io/howler-docs/odm/class/organization/"/>
+    </url>
+    <url>
+        <loc>https://cybercentrecanada.github.io/howler-docs/fr/odm/class/os/</loc>
+        <lastmod>2025-06-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://cybercentrecanada.github.io/howler-docs/fr/odm/class/os/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://cybercentrecanada.github.io/howler-docs/odm/class/os/"/>
+    </url>
+    <url>
+        <loc>https://cybercentrecanada.github.io/howler-docs/fr/odm/class/parentemail/</loc>
+        <lastmod>2025-06-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://cybercentrecanada.github.io/howler-docs/fr/odm/class/parentemail/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://cybercentrecanada.github.io/howler-docs/odm/class/parentemail/"/>
+    </url>
+    <url>
+        <loc>https://cybercentrecanada.github.io/howler-docs/fr/odm/class/parentprocess/</loc>
+        <lastmod>2025-06-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://cybercentrecanada.github.io/howler-docs/fr/odm/class/parentprocess/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://cybercentrecanada.github.io/howler-docs/odm/class/parentprocess/"/>
+    </url>
+    <url>
+        <loc>https://cybercentrecanada.github.io/howler-docs/fr/odm/class/pe/</loc>
+        <lastmod>2025-06-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://cybercentrecanada.github.io/howler-docs/fr/odm/class/pe/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://cybercentrecanada.github.io/howler-docs/odm/class/pe/"/>
+    </url>
+    <url>
+        <loc>https://cybercentrecanada.github.io/howler-docs/fr/odm/class/previousprocess/</loc>
+        <lastmod>2025-06-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://cybercentrecanada.github.io/howler-docs/fr/odm/class/previousprocess/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://cybercentrecanada.github.io/howler-docs/odm/class/previousprocess/"/>
+    </url>
+    <url>
+        <loc>https://cybercentrecanada.github.io/howler-docs/fr/odm/class/process/</loc>
+        <lastmod>2025-06-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://cybercentrecanada.github.io/howler-docs/fr/odm/class/process/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://cybercentrecanada.github.io/howler-docs/odm/class/process/"/>
+    </url>
+    <url>
+        <loc>https://cybercentrecanada.github.io/howler-docs/fr/odm/class/project/</loc>
+        <lastmod>2025-06-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://cybercentrecanada.github.io/howler-docs/fr/odm/class/project/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://cybercentrecanada.github.io/howler-docs/odm/class/project/"/>
+    </url>
+    <url>
+        <loc>https://cybercentrecanada.github.io/howler-docs/fr/odm/class/registry/</loc>
+        <lastmod>2025-06-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://cybercentrecanada.github.io/howler-docs/fr/odm/class/registry/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://cybercentrecanada.github.io/howler-docs/odm/class/registry/"/>
+    </url>
+    <url>
+        <loc>https://cybercentrecanada.github.io/howler-docs/fr/odm/class/registrydata/</loc>
+        <lastmod>2025-06-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://cybercentrecanada.github.io/howler-docs/fr/odm/class/registrydata/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://cybercentrecanada.github.io/howler-docs/odm/class/registrydata/"/>
+    </url>
+    <url>
+        <loc>https://cybercentrecanada.github.io/howler-docs/fr/odm/class/related/</loc>
+        <lastmod>2025-06-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://cybercentrecanada.github.io/howler-docs/fr/odm/class/related/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://cybercentrecanada.github.io/howler-docs/odm/class/related/"/>
+    </url>
+    <url>
+        <loc>https://cybercentrecanada.github.io/howler-docs/fr/odm/class/request/</loc>
+        <lastmod>2025-06-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://cybercentrecanada.github.io/howler-docs/fr/odm/class/request/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://cybercentrecanada.github.io/howler-docs/odm/class/request/"/>
+    </url>
+    <url>
+        <loc>https://cybercentrecanada.github.io/howler-docs/fr/odm/class/response/</loc>
+        <lastmod>2025-06-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://cybercentrecanada.github.io/howler-docs/fr/odm/class/response/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://cybercentrecanada.github.io/howler-docs/odm/class/response/"/>
+    </url>
+    <url>
+        <loc>https://cybercentrecanada.github.io/howler-docs/fr/odm/class/rule/</loc>
+        <lastmod>2025-06-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://cybercentrecanada.github.io/howler-docs/fr/odm/class/rule/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://cybercentrecanada.github.io/howler-docs/odm/class/rule/"/>
+    </url>
+    <url>
+        <loc>https://cybercentrecanada.github.io/howler-docs/fr/odm/class/section/</loc>
+        <lastmod>2025-06-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://cybercentrecanada.github.io/howler-docs/fr/odm/class/section/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://cybercentrecanada.github.io/howler-docs/odm/class/section/"/>
+    </url>
+    <url>
+        <loc>https://cybercentrecanada.github.io/howler-docs/fr/odm/class/segment/</loc>
+        <lastmod>2025-06-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://cybercentrecanada.github.io/howler-docs/fr/odm/class/segment/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://cybercentrecanada.github.io/howler-docs/odm/class/segment/"/>
+    </url>
+    <url>
+        <loc>https://cybercentrecanada.github.io/howler-docs/fr/odm/class/server/</loc>
+        <lastmod>2025-06-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://cybercentrecanada.github.io/howler-docs/fr/odm/class/server/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://cybercentrecanada.github.io/howler-docs/odm/class/server/"/>
+    </url>
+    <url>
+        <loc>https://cybercentrecanada.github.io/howler-docs/fr/odm/class/service/</loc>
+        <lastmod>2025-06-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://cybercentrecanada.github.io/howler-docs/fr/odm/class/service/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://cybercentrecanada.github.io/howler-docs/odm/class/service/"/>
+    </url>
+    <url>
+        <loc>https://cybercentrecanada.github.io/howler-docs/fr/odm/class/sharepoint/</loc>
+        <lastmod>2025-06-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://cybercentrecanada.github.io/howler-docs/fr/odm/class/sharepoint/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://cybercentrecanada.github.io/howler-docs/odm/class/sharepoint/"/>
+    </url>
+    <url>
+        <loc>https://cybercentrecanada.github.io/howler-docs/fr/odm/class/sharepointdata/</loc>
+        <lastmod>2025-06-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://cybercentrecanada.github.io/howler-docs/fr/odm/class/sharepointdata/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://cybercentrecanada.github.io/howler-docs/odm/class/sharepointdata/"/>
+    </url>
+    <url>
+        <loc>https://cybercentrecanada.github.io/howler-docs/fr/odm/class/sharepointuser/</loc>
+        <lastmod>2025-06-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://cybercentrecanada.github.io/howler-docs/fr/odm/class/sharepointuser/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://cybercentrecanada.github.io/howler-docs/odm/class/sharepointuser/"/>
+    </url>
+    <url>
+        <loc>https://cybercentrecanada.github.io/howler-docs/fr/odm/class/shortgroup/</loc>
+        <lastmod>2025-06-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://cybercentrecanada.github.io/howler-docs/fr/odm/class/shortgroup/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://cybercentrecanada.github.io/howler-docs/odm/class/shortgroup/"/>
+    </url>
+    <url>
+        <loc>https://cybercentrecanada.github.io/howler-docs/fr/odm/class/shortuser/</loc>
+        <lastmod>2025-06-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://cybercentrecanada.github.io/howler-docs/fr/odm/class/shortuser/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://cybercentrecanada.github.io/howler-docs/odm/class/shortuser/"/>
+    </url>
+    <url>
+        <loc>https://cybercentrecanada.github.io/howler-docs/fr/odm/class/software/</loc>
+        <lastmod>2025-06-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://cybercentrecanada.github.io/howler-docs/fr/odm/class/software/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://cybercentrecanada.github.io/howler-docs/odm/class/software/"/>
+    </url>
+    <url>
+        <loc>https://cybercentrecanada.github.io/howler-docs/fr/odm/class/subtechnique/</loc>
+        <lastmod>2025-06-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://cybercentrecanada.github.io/howler-docs/fr/odm/class/subtechnique/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://cybercentrecanada.github.io/howler-docs/odm/class/subtechnique/"/>
+    </url>
+    <url>
+        <loc>https://cybercentrecanada.github.io/howler-docs/fr/odm/class/tactic/</loc>
+        <lastmod>2025-06-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://cybercentrecanada.github.io/howler-docs/fr/odm/class/tactic/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://cybercentrecanada.github.io/howler-docs/odm/class/tactic/"/>
+    </url>
+    <url>
+        <loc>https://cybercentrecanada.github.io/howler-docs/fr/odm/class/technique/</loc>
+        <lastmod>2025-06-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://cybercentrecanada.github.io/howler-docs/fr/odm/class/technique/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://cybercentrecanada.github.io/howler-docs/odm/class/technique/"/>
+    </url>
+    <url>
+        <loc>https://cybercentrecanada.github.io/howler-docs/fr/odm/class/thread/</loc>
+        <lastmod>2025-06-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://cybercentrecanada.github.io/howler-docs/fr/odm/class/thread/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://cybercentrecanada.github.io/howler-docs/odm/class/thread/"/>
+    </url>
+    <url>
+        <loc>https://cybercentrecanada.github.io/howler-docs/fr/odm/class/threat/</loc>
+        <lastmod>2025-06-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://cybercentrecanada.github.io/howler-docs/fr/odm/class/threat/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://cybercentrecanada.github.io/howler-docs/odm/class/threat/"/>
+    </url>
+    <url>
+        <loc>https://cybercentrecanada.github.io/howler-docs/fr/odm/class/tls/</loc>
+        <lastmod>2025-06-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://cybercentrecanada.github.io/howler-docs/fr/odm/class/tls/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://cybercentrecanada.github.io/howler-docs/odm/class/tls/"/>
+    </url>
+    <url>
+        <loc>https://cybercentrecanada.github.io/howler-docs/fr/odm/class/trigger/</loc>
+        <lastmod>2025-06-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://cybercentrecanada.github.io/howler-docs/fr/odm/class/trigger/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://cybercentrecanada.github.io/howler-docs/odm/class/trigger/"/>
+    </url>
+    <url>
+        <loc>https://cybercentrecanada.github.io/howler-docs/fr/odm/class/tty/</loc>
+        <lastmod>2025-06-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://cybercentrecanada.github.io/howler-docs/fr/odm/class/tty/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://cybercentrecanada.github.io/howler-docs/odm/class/tty/"/>
+    </url>
+    <url>
+        <loc>https://cybercentrecanada.github.io/howler-docs/fr/odm/class/url/</loc>
+        <lastmod>2025-06-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://cybercentrecanada.github.io/howler-docs/fr/odm/class/url/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://cybercentrecanada.github.io/howler-docs/odm/class/url/"/>
+    </url>
+    <url>
+        <loc>https://cybercentrecanada.github.io/howler-docs/fr/odm/class/user/</loc>
+        <lastmod>2025-06-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://cybercentrecanada.github.io/howler-docs/fr/odm/class/user/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://cybercentrecanada.github.io/howler-docs/odm/class/user/"/>
+    </url>
+    <url>
+        <loc>https://cybercentrecanada.github.io/howler-docs/fr/odm/class/useragent/</loc>
+        <lastmod>2025-06-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://cybercentrecanada.github.io/howler-docs/fr/odm/class/useragent/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://cybercentrecanada.github.io/howler-docs/odm/class/useragent/"/>
+    </url>
+    <url>
+        <loc>https://cybercentrecanada.github.io/howler-docs/fr/odm/class/usernested/</loc>
+        <lastmod>2025-06-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://cybercentrecanada.github.io/howler-docs/fr/odm/class/usernested/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://cybercentrecanada.github.io/howler-docs/odm/class/usernested/"/>
+    </url>
+    <url>
+        <loc>https://cybercentrecanada.github.io/howler-docs/fr/odm/class/votes/</loc>
+        <lastmod>2025-06-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://cybercentrecanada.github.io/howler-docs/fr/odm/class/votes/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://cybercentrecanada.github.io/howler-docs/odm/class/votes/"/>
+    </url>
+    <url>
+        <loc>https://cybercentrecanada.github.io/howler-docs/fr/odm/class/vulnerability/</loc>
+        <lastmod>2025-06-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://cybercentrecanada.github.io/howler-docs/fr/odm/class/vulnerability/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://cybercentrecanada.github.io/howler-docs/odm/class/vulnerability/"/>
+    </url>
+    <url>
+        <loc>https://cybercentrecanada.github.io/howler-docs/fr/overview/architecture/</loc>
+        <lastmod>2025-06-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://cybercentrecanada.github.io/howler-docs/fr/overview/architecture/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://cybercentrecanada.github.io/howler-docs/overview/architecture/"/>
+    </url>
+    <url>
+        <loc>https://cybercentrecanada.github.io/howler-docs/fr/overview/detection_engineers/</loc>
+        <lastmod>2025-06-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://cybercentrecanada.github.io/howler-docs/fr/overview/detection_engineers/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://cybercentrecanada.github.io/howler-docs/overview/detection_engineers/"/>
+    </url>
+    <url>
+        <loc>https://cybercentrecanada.github.io/howler-docs/fr/overview/triage_analysts/</loc>
+        <lastmod>2025-06-16</lastmod>
+        <changefreq>daily</changefreq>
+        <xhtml:link rel="alternate" hreflang="fr" href="https://cybercentrecanada.github.io/howler-docs/fr/overview/triage_analysts/"/>
+        <xhtml:link rel="alternate" hreflang="en" href="https://cybercentrecanada.github.io/howler-docs/overview/triage_analysts/"/>
+    </url>
+</urlset>
