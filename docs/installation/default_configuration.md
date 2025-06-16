@@ -50,13 +50,6 @@ datastore:
     indexes: {}
     update_archive: false
   type: elasticsearch
-filestore:
-  storage:
-  - host: localhost:9000?s3_bucket=hwl-storage&use_ssl=False
-    name: minio
-    password: Ch@ngeTh!sPa33w0rd
-    scheme: s3
-    username: hwl_storage_key
 logging:
   export_interval: 5
   log_as_json: true
